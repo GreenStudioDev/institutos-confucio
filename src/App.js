@@ -1,16 +1,14 @@
-import './App.css';
-import { Title } from './components/Title';
-import { Map } from "./components/Map";
-import Sidebar from './components/Sidebar';
+import "./App.css";
+import {Maps} from "./components/Map";
+import { Sidebar } from "./components/Sidebar";
+// import { MapView } from "./components/MapView";
 
 export const App = () => {
   return (
     <div className="App">
       <Sidebar />
-      <Title />
-      <Map />
+      <Maps />
+    {/* < MapView /> */}
     </div>
   );
-}
-
-
+};

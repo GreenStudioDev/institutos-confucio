@@ -5,14 +5,20 @@ import { App } from "./App";
 import { institutesReducer } from "./reducers/institutes";
 import { Provider } from "react-redux";
 import { legacy_createStore as createStore } from "redux";
+import mapboxgl from 'mapbox-gl';
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-const store = createStore(institutesReducer);
+const storeReducer = createStore(
+  institutesReducer,
+  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+);
+
+mapboxgl.accessToken = 'pk.eyJ1IjoiYW5oaXNhIiwiYSI6ImNsN3Q1aTJpdDBudWIzdG9nYjd3bXZqZzgifQ.Ho_Dm0XJw1Wxyz8epkCkvA';
 
 root.render(
   <React.StrictMode>
-    <Provider store={store}>
+    <Provider store={storeReducer}>
       <App />
     </Provider>
   </React.StrictMode>
