@@ -1,1 +1,0 @@
-export const SET_INSTITUTES = 'SET_INSTITUTES'

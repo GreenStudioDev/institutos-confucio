@@ -1,40 +1,51 @@
 import { InstituteCard } from "./InstituteCard";
 import "../App.js";
+import { useGeoInstitutes } from "../helpers/getGeoInstitutes";
 
-export const InstitutesList = ({ institutes }) => {
+
+
+export const InstitutesList = () => {
+
+  const institutes = useGeoInstitutes();
+  console.log("🚀 ~ file: InstitutesList.js ~ line 10 ~ InstitutesList ~ institutes", institutes)
+
+  // const onCardClicked = () => {
+
+  // }
+
   return (
-    <>
       <div id="listings" className="listings">
-        {institutes.map((institute) => {
+        {institutes.features.map((institute) => {
           return (
             <InstituteCard
-              key={institute.institute_id}
-              name={institute.type_spa + " " + institute.place_spa}
-              city={institute.city_name_spa}
-              year={institute.year}
-              place={institute.place_spa}
-              cooperation={institute.Cooperation_spa}
-              address={institute.address}
-              country={institute.country_name_spa}
-              website={institute.website}
-              email_1={institute.email_1}
-              email_2={institute.email_2}
-              phone={institute.phone}
-              extension={institute.extension}
-              phone_2={institute.phone_2}
-              agreement_1={institute.agreement_1_spa}
-              agreement_2={institute.agreement_2_spa}
-              local_director={institute.local_director}
-              local_director_email={institute.local_director_email}
-              local_director_profile={institute.local_director_profile_spa}
-              chinese_director={institute.chinese_director}
-              chinese_director_profile={institute.chinese_director_profile_spa}
-              chinese_director_email={institute.chinese_director_email}
-              logo={institute.logo}
+              key={institute.properties.id}
+              name={institute.properties.type + " " + institute.properties.place}
+              city={institute.properties.city_name}
+              year={institute.properties.year}
+              place={institute.properties.place}
+              cooperation={institute.properties.cooperation}
+              address={institute.properties.address}
+              country={institute.properties.country_name}
+              website={institute.properties.website}
+              email_1={institute.properties.email_1}
+              email_2={institute.properties.email_2}
+              phone={institute.properties.phone}
+              extension={institute.properties.extension}
+              phone_2={institute.properties.phone_2}
+              agreement_1={institute.properties.agreement_1}
+              agreement_2={institute.properties.agreement_2}
+              local_director={institute.properties.local_director}
+              local_director_email={institute.properties.local_director_email}
+              local_director_profile={institute.properties.local_director_profile}
+              chinese_director={institute.properties.chinese_director}
+              chinese_director_profile={institute.properties.chinese_director_profile}
+              chinese_director_email={institute.properties.chinese_director_email}
+              logo={institute.properties.logo}
             />
-          );
+          )
         })}
-      </div>
-    </>
-  );
+            
+          
+        
+      </div>)
 };

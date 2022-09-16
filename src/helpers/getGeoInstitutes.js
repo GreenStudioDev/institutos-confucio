@@ -1,20 +1,20 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { getInstitutes } from "../api/index";
-import { setInstitutes } from "../actions/index";
-import { useSelector, useDispatch } from "react-redux";
+// import { setInstitutes } from "../actions/index";
+// import { useSelector, useDispatch } from "react-redux";
 
 export const useGeoInstitutes = () => {
-  const institutes = useSelector((state) => state.institutes);
 
-  const dispatch = useDispatch();
+  const [institutes, setInstitutes] = useState([]);
+
 
   useEffect(() => {
     const fetchInstitutes = async () => {
       const institutesRes = await getInstitutes();
-      dispatch(setInstitutes(institutesRes));
-    };
-    fetchInstitutes();
-  }, [dispatch]);
+      setInstitutes(institutesRes)
+    }
+    fetchInstitutes()
+  }, []);
 
   const resGeoInstitutes = {
     type: "FeatureCollection",
@@ -26,6 +26,7 @@ export const useGeoInstitutes = () => {
           coordinates: [institute.long, institute.lat],
         },
         properties: {
+          id: institute.institute_id,
           cooperation: institute.Cooperation_spa,
           address: institute.address,
           agreement_1: institute.agreement_1_spa,
@@ -55,3 +56,4 @@ export const useGeoInstitutes = () => {
   };
   return resGeoInstitutes;
 };
+

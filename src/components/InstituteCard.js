@@ -1,4 +1,6 @@
 import "../App.js";
+// import { useGeoInstitutes } from "../helpers/getGeoInstitutes.js";
+
 
 export const InstituteCard = ({
   name,

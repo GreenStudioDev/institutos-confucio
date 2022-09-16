@@ -1,32 +1,31 @@
 import "../App.js";
-import { useSelector, useDispatch } from "react-redux";
 import { InstitutesList } from "./InstitutesList";
-import { getInstitutes } from "../api/index";
-import { useEffect, 
-    // useState
- } from "react";
-import { setInstitutes } from "../actions/index";
+// import { getInstitutes } from "../api/index";
+// import { useSelector, useDispatch } from "react-redux";
+// import { useEffect, useState } from "react";
+ // import { setInstitutes } from "../actions/index";
+//  import { useGeoInstitutes } from "../helpers/getGeoInstitutes";
 
 export const Sidebar = () => {
 
-  const institutes = useSelector((state) => state.institutes);
-  const dispatch = useDispatch();
+  // const institutes = useGeoInstitutes();
+  // const [institutes, setInstitutes] = useState([]);
 
-  useEffect(() => {
-    const fetchInstitutes = async () => {
-      const institutesRes = await getInstitutes();
-      dispatch(setInstitutes(institutesRes));
-    };
-    fetchInstitutes();
-  }, [dispatch]);
+  // useEffect(() => {
+  //   const fetchInstitutes = async () => {
+  //     const institutesRes = await getInstitutes();
+  //     setInstitutes(institutesRes)
+  //   }
+  //   fetchInstitutes()
+  // }, []);
 
   return (
     <>
       <div className="sidebar">
         <div className="heading">
-          <h2>Institutos Confucio América Latina y el Caribe</h2>
+          <h2>Institutos Confucio en América Latina y el Caribe</h2>
         </div>
-        <InstitutesList institutes={institutes} />
+        <InstitutesList />
       </div>
     </>
   );
