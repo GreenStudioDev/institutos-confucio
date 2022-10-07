@@ -1,12 +1,10 @@
 import { useEffect, useState } from "react";
-import { getInstitutes } from "../api/index";
-// import { setInstitutes } from "../actions/index";
-// import { useSelector, useDispatch } from "react-redux";
+import { getInstitutes } from "../api";
 
+// use this function to get geoJSON object when DB info change in order to update the institutes.json file
 export const useGeoInstitutes = () => {
 
   const [institutes, setInstitutes] = useState([]);
-
 
   useEffect(() => {
     const fetchInstitutes = async () => {
@@ -14,18 +12,22 @@ export const useGeoInstitutes = () => {
       setInstitutes(institutesRes)
     }
     fetchInstitutes()
+    
   }, []);
+      
+      
 
-  const resGeoInstitutes = {
-    type: "FeatureCollection",
+  const resGeoInstitutes = 
+   {
+        type: "FeatureCollection",
     features: institutes.map((institute) => {
       return {
         type: "Feature",
         geometry: {
           type: "Point",
-          coordinates: [institute.long, institute.lat],
+          coordinates: [ institute.long, institute.lat],
         },
-        properties: {
+        properties: { 
           id: institute.institute_id,
           cooperation: institute.Cooperation_spa,
           address: institute.address,
@@ -54,6 +56,8 @@ export const useGeoInstitutes = () => {
       };
     }),
   };
-  return resGeoInstitutes;
-};
+
+return resGeoInstitutes
+
+}
 

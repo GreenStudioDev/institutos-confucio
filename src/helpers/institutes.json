@@ -1,0 +1,2057 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-58.397474421980974",
+                    "-34.59968361849732"
+                ]
+            },
+            "properties": {
+                "id": "1",
+                "cooperation": "Universidad de Jilin",
+                "address": "Av. Córdoba 2122 CABA",
+                "agreement_1": "La Fundación de Educación Internacional de Chino y el Centro de Educación",
+                "agreement_2": "Centro de Educación y Cooperación del Idioma",
+                "chinese_director": "Zhang Qi Raquel ",
+                "chinese_director_email": "zhangqi9112@126.com",
+                "chinese_director_profile": "",
+                "city_name": "Buenos Aires",
+                "country_name": "Argentina",
+                "email_1": "instituoconfucio@uba.ar",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "1",
+                "local_director": "Patricio Conejero Ortíz",
+                "local_director_email": "pconejero@uba.ar",
+                "local_director_profile": "Economista de la Universidad de Buenos Aires, actualmente ejerce como Subsecretario de Asuntos Internacionales en esa misma Universidad.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/AR_IC_UNIVERSIDAD_BUENOS_AIRES.jpg",
+                "phone": "54 11 52856580",
+                "phone_2": "",
+                "place": "Universidad de Buenos Aires",
+                "type": "Instituto",
+                "website": "https://www.institutoconfucio.edu.ar/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-57.95062378736851",
+                    "-34.913303141145406"
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "cooperation": "Universidad de Estudios Extranjeros de Xi'an",
+                "address": "Calle 48 Nº 582",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Li Fang Jun",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "La Plata",
+                "country_name": "Argentina",
+                "email_1": "confuciounlp@gmail.com",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "2",
+                "local_director": "Norberto Consani",
+                "local_director_email": "",
+                "local_director_profile": "Abogado de la Universidad Nacional de La Plata y Doctor en Derecho Internacional por la Universidad de Paris II. Presidente del Consejo Federal de Estudios Internacionales.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/AR_IC_UNIVERSIDAD_PLATA.jpg",
+                "phone": "54 0221 4230628",
+                "phone_2": "",
+                "place": "Universidad Nacional de La Plata",
+                "type": "Instituto",
+                "website": "https://www.institutoconfucio.iri.edu.ar/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-64.18878696640047",
+                    "-31.43830703036356"
+                ]
+            },
+            "properties": {
+                "id": "3",
+                "cooperation": "Universidad de Jinan",
+                "address": "Pabellón Argentina - Av. Haya de las Torres s/n",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Chen Lin",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Maestro en Lingüística Aplicada. Actualmente es Profesor Asociado de la Universidad de Jinan.",
+                "city_name": "Córdoba",
+                "country_name": "Argentina",
+                "email_1": "info@institutoconfucio.unc.edu.ar",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "3",
+                "local_director": "Miriam A. Carballo",
+                "local_director_email": "",
+                "local_director_profile": "Doctora en Letras y Magíster en Inglés (orientación en literatura anglófona) por la UNC.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/AR_IC_UNIVERSIDAD_NACIONAL_CORDOBA.jpg",
+                "phone": "",
+                "phone_2": "",
+                "place": "Universidad Nacional de Córdoba",
+                "type": "Instituto",
+                "website": "https://institutoconfucio.unc.edu.ar/",
+                "year": "2004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-62.270279482054576",
+                    "-38.701092982073284"
+                ]
+            },
+            "properties": {
+                "id": "4",
+                "cooperation": "Instituto Confucio Universidad de Buenos Aires",
+                "address": "Av. Leandro Niceforo Alem 1253, B8000",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Bahía Blanca",
+                "country_name": "Argentina",
+                "email_1": "contacto@crical.org",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "4",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "56 2 29255560",
+                "phone_2": "",
+                "place": "Universidad Nacional del Sur",
+                "type": "Aula",
+                "website": "https://fundacionclec.org/?p=824",
+                "year": "2015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.3531390167438",
+                    "25.06220383042952"
+                ]
+            },
+            "properties": {
+                "id": "5",
+                "cooperation": "Universidad de Ingeniería de la Información de Nanjing",
+                "address": "Confucius Institute, S-7, School of Communication and Creatives, Arts, University of the Bahamas, Unibersity Drive, P. O. Box N-4912, Nassau",
+                "agreement_1": "Universidad de Ciencias y Tecnologías de la Información de Nanjing NUIST",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Nassau",
+                "country_name": "Bahamas",
+                "email_1": "abdul.knowles@ub.edu.bs",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "5",
+                "local_director": "Abdul Knowles",
+                "local_director_email": "abdul.knowles@ub.edu.bs",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "242 397 2261",
+                "phone_2": "",
+                "place": "Universidad de las Bahamas",
+                "type": "Instituto",
+                "website": "https://www.ub.edu.bs/academics/institutes/confucius-institute/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-59.62964440439152",
+                    "13.135658108669546"
+                ]
+            },
+            "properties": {
+                "id": "6",
+                "cooperation": "Universidad China de Ciencias Políticas y Derecho",
+                "address": "Cave Hill Campus",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Li Renyan",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Ciencias Políticas y Derecho de China con un título de Doctor en Derecho Procesal Administrativo.",
+                "city_name": "Bridgetown",
+                "country_name": "Barbados",
+                "email_1": "confuciusinstitute@cavehill.uwi.edu",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "6",
+                "local_director": "David Bulbulia",
+                "local_director_email": "",
+                "local_director_profile": "Funcionario de carrera del Servicio Exterior de Barbados con formación académica en Sociología y Ciencias Políticas y título de posgrado en Relaciones Internacionales.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/BARB_IC_UNIVERSITY-_WEST_CAVE_HILL.png",
+                "phone": "246 629-4970",
+                "phone_2": "",
+                "place": "Universidad de las Indias Occidentales en Cave Hill",
+                "type": "Instituto",
+                "website": "https://www.cavehill.uwi.edu//confucius/home.aspx",
+                "year": "2003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-66.14747229263034",
+                    "-17.394088529027304"
+                ]
+            },
+            "properties": {
+                "id": "7",
+                "cooperation": "Colegio de Lenguas Extranjeras de Hebei",
+                "address": "Calle Sucre, 591",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Li Jianfeng",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Cochabamba",
+                "country_name": "Bolivia",
+                "email_1": "institutoconfucioumss@gmail.com",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "7",
+                "local_director": "Giovanni Fossati Lema",
+                "local_director_email": "",
+                "local_director_profile": "Profesor de Lingüística Aplicada en la Facultad de Humanidades y Ciencias de la Educación de la Universidad Mayor de San Simón.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/BO_IC_UNIVERSIDAD_MAYOR_SAN_SIMON_COCHABAMBA.jpg",
+                "phone": "591 4 4248519",
+                "phone_2": "",
+                "place": "Universidad Mayor de San Simón",
+                "type": "Instituto",
+                "website": "http://icumss.bol.chinesecio.com/",
+                "year": "2011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-46.610069571981974",
+                    "-23.590697005790368"
+                ]
+            },
+            "properties": {
+                "id": "8",
+                "cooperation": "Universidad de Hubei",
+                "address": "Rua Dom Luís Lasanha, 400 - Ipiranga, São Paulo - SP, 04266-030",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Luo Jin",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "São Paulo",
+                "country_name": "Brasil",
+                "email_1": "icunesp.institutoconfucio@unesp.br",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "8",
+                "local_director": "Luís Antonio Paulino",
+                "local_director_email": "",
+                "local_director_profile": "Ingeniero de la Universidad de Sao Paulo, Maestro en Economía y Finanzas Públicas de la Fundación Getulio Vargas y Doctor en Ciencias Económicas por la Universidad Estadual de Campinas. Actualmente es profesor en la Facultad de Filosofía y Ciencias de la UNESP.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/BR_IC_UNESP_SAO_PAULO.png",
+                "phone": "11 2066 5950",
+                "phone_2": "",
+                "place": "Universidad Estatal Paulista UNESP",
+                "type": "Instituto",
+                "website": "https://www.institutoconfucio.com.br/",
+                "year": "2008"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-47.870773013840896",
+                    "-15.770119884576262"
+                ]
+            },
+            "properties": {
+                "id": "9",
+                "cooperation": "Universidad de Estudios Extranjeros de Dalian",
+                "address": "UnB - Brasília, DF, 70297-400, Brasil",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Xiaojuan Lu",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Brasilia",
+                "country_name": "Brasil",
+                "email_1": "instconfuciounb@unb.br",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "9",
+                "local_director": "Enrique Huelva Unternbäumen",
+                "local_director_email": "",
+                "local_director_profile": "Lingüista y Maestro de Filología Germánica e Historia Hispánica; Doctor en Lingüística por la Universidad Bielefeld. Actualmente es profesor e inverstigador en Lingüística Cognitiva y Lingüística Aplicada en la Universidad de Brasilia.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/BR_IC_UNB_BRASILIA.png",
+                "phone": "55 61 3107 6012",
+                "phone_2": "",
+                "place": "Universidad de Brasilia",
+                "type": "Instituto",
+                "website": "https://www.facebook.com/confuciounb/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-43.26972116170254",
+                    "-22.99875174449436"
+                ]
+            },
+            "properties": {
+                "id": "10",
+                "cooperation": "Universidad de Hebei",
+                "address": "Estr. da Gávea, no. 50 - sala 112A - Gávea, Rio de Janeiro - RJ, 22451-263, Brasil",
+                "agreement_1": "Cámara de Comercio CCBC Brasil China",
+                "agreement_2": "",
+                "chinese_director": "Sun Yanping - Sonia",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Doctor en Historia en la Universidad Normal de Beijing y profesor en la Escuela de Historia de la Universidad de Hebei.",
+                "city_name": "Río de Janeiro",
+                "country_name": "Brasil",
+                "email_1": "confucius@puc-rio.br",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "10",
+                "local_director": "Leonardo Bérenger",
+                "local_director_email": "",
+                "local_director_profile": "Doctor en Estudios Shakesperianos (UFRJ) Profesor de Literatura en Lengua Inglesa en el Departamento de Letras de la PUC-Rio.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/BR_IC_PUC_RIO.jpg",
+                "phone": "55 21 3527 2525",
+                "phone_2": "55 21 3527 2524",
+                "place": "Universidad Católica de Río de Janeiro",
+                "type": "Instituto",
+                "website": "http://www.confucius.puc-rio.br/",
+                "year": "2011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-51.1196133191437",
+                    "-30.07139430913633"
+                ]
+            },
+            "properties": {
+                "id": "11",
+                "cooperation": "Universidad de Comunicación de China",
+                "address": "Av. Bento Gonçalves, 9500 - Campus do Vale da UFRGS, Prédio do Módulo de Serviços - Agronomia, Porto Alegre - RS, 91540-000",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Tiejun Gu",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Puerto alegre",
+                "country_name": "Brasil",
+                "email_1": "confucio@ufrgs.br",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "11",
+                "local_director": "Antônio Padula",
+                "local_director_email": "",
+                "local_director_profile": "Catedrático de la Facultad de Administración, licenciado en Ingeniería Mecánica, Máster y Doctor en Administración de Empresas.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/BR_IC_UFRGS.png",
+                "phone": "55 51 3308 7492",
+                "phone_2": "",
+                "place": "Universidade Federal Do Rio Grande Do Sul",
+                "type": "Instituto",
+                "website": "https://www.ufrgs.br/confucio/",
+                "year": "2012"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-46.6627294011376",
+                    "-23.54459227961684"
+                ]
+            },
+            "properties": {
+                "id": "12",
+                "cooperation": "Universidad de Negocios y Economía Internacional",
+                "address": "Rua Alagoas, 903 - Higienópolis - São Paulo",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "São Paulo",
+                "country_name": "Brasil",
+                "email_1": "institutoconfucio@faap.br",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "12",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "55 11 3662 7288",
+                "phone_2": "",
+                "place": "Fundação Armando Álvares Penteado",
+                "type": "Instituto",
+                "website": "https://www.faap.br/institutoconfucio/institucional.asp",
+                "year": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-43.964818159940215",
+                    "-19.87228054782672"
+                ]
+            },
+            "properties": {
+                "id": "13",
+                "cooperation": "Universidad de Ciencia y Tecnología de Huazhong",
+                "address": "Av. Antônio Carlos, 6627 – Pampulha – Belo Horizonte, CEP: 31270-901",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Liu-yi",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Profesor de la Escuela de Idiomas HUST.",
+                "city_name": "Belo Horizonte",
+                "country_name": "Brasil",
+                "email_1": "icufmg@dri.ufmg.br",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "13",
+                "local_director": "Leandro Rodrigues Alves Diniz",
+                "local_director_email": "",
+                "local_director_profile": "Profesor de la Facultad de Letras de la UFMC.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/BR_IC_UFMG.png",
+                "phone": "55 31 3409 5134",
+                "phone_2": "",
+                "place": "Universidad Federal de Minas Gerais",
+                "type": "Instituto",
+                "website": "https://www.institutoconfucio.ufmg.br/",
+                "year": "2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-34.90224707009495",
+                    "-8.059126579339116"
+                ]
+            },
+            "properties": {
+                "id": "14",
+                "cooperation": "Universidad Central de Finanzas y Economía",
+                "address": "R. Benfica, 305 – Madalena Recife - PE, 50720-001",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Xu Kerou y Wang Gang",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Recife",
+                "country_name": "Brasil",
+                "email_1": "institutoconfucio@upe.br",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "14",
+                "local_director": "Heldio Villar",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/BR_IC_UPE.jpg",
+                "phone": "55 81 3183 3656",
+                "phone_2": "",
+                "place": "Universidad de Pernambuco",
+                "type": "Instituto",
+                "website": "http://www.upe.br/instituto-confucio.html",
+                "year": "2014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-47.07118304636767",
+                    "-22.816058730134284"
+                ]
+            },
+            "properties": {
+                "id": "15",
+                "cooperation": "Beijing Jiaotong University",
+                "address": "R. Sérgio Buarque de Holanda, 421 - Cidade Universitária,Campinas - SP, - 13083-85 - Barão Geraldo, Campinas - SP, 13083-970, Brasil",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Gao Qinxiang",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "São Paulo",
+                "country_name": "Brasil",
+                "email_1": "confucio@unicamp.br",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "15",
+                "local_director": "Bruno M. de Conti",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "55 19 3521 4716",
+                "phone_2": "19 3521 0051",
+                "place": "Universidad Estatal de Campinas",
+                "type": "Instituto",
+                "website": "https://www.institutoconfucio.unicamp.br/instituto-confucio-da-unicamp/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-48.45714186203113",
+                    "-1.4768900187687992"
+                ]
+            },
+            "properties": {
+                "id": "16",
+                "cooperation": "Universidad Normal de Shandong",
+                "address": "R. Igarapé Tucunduba, 306 - Guamá, Belém - PA, 66075-155, Brasil",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Belem",
+                "country_name": "Brasil",
+                "email_1": "institutoconfucio.uepa@hotmail.com",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "16",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "55 81 3183 3656",
+                "phone_2": "",
+                "place": "Universidade Federal do Pará",
+                "type": "Instituto",
+                "website": "https://paginas.uepa.br/institutoconfucio/ (página web en mantenimiento)",
+                "year": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-38.56957166202383",
+                    "-3.739295241440392"
+                ]
+            },
+            "properties": {
+                "id": "17",
+                "cooperation": "Universidad de Nankai",
+                "address": "(Entrada por Seara da Ciência) Rua Dr. Abdenago Rocha Lima, s / n - Campus do Pici, Fortaleza - CE, 60440-554",
+                "agreement_1": "UFC  ",
+                "agreement_2": "Sede del Instituto Confucio (Hanban), en sociedad con la Universidad de Nankai, en Tianjin-China.",
+                "chinese_director": "Su Jianhua",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Fortaleza",
+                "country_name": "Brasil",
+                "email_1": "institutoconfucio@ufc.br",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "17",
+                "local_director": "Mônica Alves Amorim",
+                "local_director_email": "",
+                "local_director_profile": "Economista, profesora de la Universidad Federal de Ceará y Consultora en el área de Desarrollo Local.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/BR_IC_UFC.png",
+                "phone": "",
+                "phone_2": "",
+                "place": "Universidade Federal do Ceará",
+                "type": "Instituto",
+                "website": "https://institutoconfucio.ufc.br/pt/",
+                "year": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.52205569535515",
+                    "-33.036723665066475"
+                ]
+            },
+            "properties": {
+                "id": "18",
+                "cooperation": "Universidad de Anhui",
+                "address": "Av. 1 Norte # 3041",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Wang Meng",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Viña del Mar",
+                "country_name": "Chile",
+                "email_1": "confucio@santotomas.cl",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "18",
+                "local_director": "Lilian Espinoza Guerra",
+                "local_director_email": "",
+                "local_director_profile": "Relacionista Pública de la Universidad Santo Tomás. Realizó estudios de chino mandarín y su cultura por un año en la Universidad de Lenguas y Cultura de Beijing.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/CHILE_IC_SANTO_TOMAS.jpg",
+                "phone": "56 322 448 110",
+                "phone_2": "",
+                "place": "Universidad de Santo Tomás",
+                "type": "Instituto",
+                "website": "https://www.confucioust.cl/",
+                "year": "2007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-70.59414210367504",
+                    "-33.446246372367455"
+                ]
+            },
+            "properties": {
+                "id": "19",
+                "cooperation": "Universidad de Nanjing",
+                "address": "Av. Jaime Guzmán Errázuriz 3300",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Hongjuan Gu",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Santiago de Chile",
+                "country_name": "Chile",
+                "email_1": "institutoconfucio@uc.cl",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "19",
+                "local_director": "José Luís Parra",
+                "local_director_email": "",
+                "local_director_profile": "Maestro en Negocios Internacionales del Instito Tecnológico de Monterrey. Actualmente es profesor del Centro de Estudios Internacionales de la Pontificia Universidad Católica de Chile y Director Ejecutivo del Observatorio Estratégico de la Alizanza del Pacífico.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/CHILE_IC_PU-CATOLICA.jpg",
+                "phone": "56 2 2354 5235",
+                "phone_2": "",
+                "place": "Pontificia Universidad Católica de Chile",
+                "type": "Instituto",
+                "website": "http://confucio.uc.cl/es/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.1075153176439",
+                    "-36.60666207888358"
+                ]
+            },
+            "properties": {
+                "id": "20",
+                "cooperation": "Embajada de China y el Ministerio de Educación",
+                "address": "Claudio Arrau 655, Chillan, Chillán, Región del Bío Bío, Chile",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Chillán",
+                "country_name": "Chile",
+                "email_1": "liceomartabrunet@gmail.com",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "20",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "56 42 2211645",
+                "phone_2": "",
+                "place": "Liceo Bicentenario Marta Brunet",
+                "type": "Aula",
+                "website": "http://www.liceomartabrunet.cl/",
+                "year": "2005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.51944170553786",
+                    "-32.99732411824158"
+                ]
+            },
+            "properties": {
+                "id": "21",
+                "cooperation": "Embajada de China",
+                "address": "Índico 4545 Sector Gómez Carreño",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Viña del Mar",
+                "country_name": "Chile",
+                "email_1": "",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "21",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "56 3 2296 0713",
+                "phone_2": "",
+                "place": "Liceo Politécnico José Francisco Vergara",
+                "type": "Aula",
+                "website": "",
+                "year": "2005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-70.6502313842708",
+                    "-33.4446913337772"
+                ]
+            },
+            "properties": {
+                "id": "22",
+                "cooperation": "Beijing International Studies University BISU",
+                "address": "Arturo Prat 33",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Santiago de Chile",
+                "country_name": "Chile",
+                "email_1": "rectoria@institutonacional.cl",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "22",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "56 2 2696 4294",
+                "phone_2": "",
+                "place": "Instituto Nacional General Jose Miguel Carrera ",
+                "type": "Aula",
+                "website": "https://institutonacional.cl/2018/08/14/inician-estudios-en-china/",
+                "year": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-70.6574236322093",
+                    "-33.439389323314145"
+                ]
+            },
+            "properties": {
+                "id": "23",
+                "cooperation": "",
+                "address": "Compañía de Jesús 1484",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Santiago de Chile",
+                "country_name": "Chile",
+                "email_1": "liceo1@munistgo.cl",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "23",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "56 2 2696 4714",
+                "phone_2": "",
+                "place": "Liceo nº1 Javiera Carrera",
+                "type": "Aula",
+                "website": "http://liceo1.k12.cl/error.html",
+                "year": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.21848924587798",
+                    "-36.50411238055489"
+                ]
+            },
+            "properties": {
+                "id": "24",
+                "cooperation": "",
+                "address": "Balmaceda 462, San Nicolás, Región del Bío Bío, Chile",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "San Nicolás",
+                "country_name": "Chile",
+                "email_1": "",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "24",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "56 4 2256 1512",
+                "phone_2": "",
+                "place": "Liceo Bicentenario de Excelencia Polivalente de San Nicolás",
+                "type": "Aula",
+                "website": "http://www.liceosannicolas.cl/",
+                "year": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.21201325922299",
+                    "-39.85243004019711"
+                ]
+            },
+            "properties": {
+                "id": "25",
+                "cooperation": "Instituto Confucio Universidad de Santo Tomás",
+                "address": "Cam. A Paillao 12, Lote C",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Valdivia",
+                "country_name": "Chile",
+                "email_1": "icap.educa@gmail.com",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "25",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/CHILE_CU_ICAP.jpg",
+                "phone": "56 6 3220 6060",
+                "phone_2": "",
+                "place": "Colegio Instituto Asia Pacífico",
+                "type": "Aula",
+                "website": "http://www.icapvaldivia.cl/",
+                "year": "2012"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.0669956313391",
+                    "4.607788362373139"
+                ]
+            },
+            "properties": {
+                "id": "26",
+                "cooperation": "Universidad de Estudios Extranjeros de Tianjin",
+                "address": "Carrera 4 # 23-48 Módulo 28 Bogotá",
+                "agreement_1": "Universidad de Anhui",
+                "agreement_2": " CLEC Center for Language Education Cooperation (exHANBAN)",
+                "chinese_director": "Wang Yuqin",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Subdirectora de la División de Trabajo del Instituto Confucio de la Universidad de Estudios Extranjeros de Tianjin.",
+                "city_name": "Bogotá",
+                "country_name": "Colombia",
+                "email_1": "atencion.institutoconfucio@utadeo.edu.co",
+                "email_2": "",
+                "extension": "Opción 9 ext. 3670 – 3673",
+                "institute_id": "26",
+                "local_director": "Lina Álvarez",
+                "local_director_email": "",
+                "local_director_profile": "Economista con Maestría en economía de la Universidad de Los Andes.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/CO_IC_UTADEO.jpg",
+                "phone": "57 1 2427030",
+                "phone_2": "",
+                "place": "Universidad Jorge Tadeo Lozano",
+                "type": "Instituto",
+                "website": "https://www.utadeo.edu.co/es/micrositio/instituto-confucio",
+                "year": "2004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.57935405667743",
+                    "6.196427510880785"
+                ]
+            },
+            "properties": {
+                "id": "27",
+                "cooperation": "Universidad de Estudios Extranjeros de Dalian",
+                "address": "Carrera 48A N° 10 sur - 107 Casa 5",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Kang Chengyu",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Medellín",
+                "country_name": "Colombia",
+                "email_1": "contacto@institutoconfuciomedellin.org",
+                "email_2": "",
+                "extension": "ext. 9832",
+                "institute_id": "27",
+                "local_director": "Catherine Márquez Marín?",
+                "local_director_email": "",
+                "local_director_profile": "Magíster en Relaciones Internacionales de Asia Pacífico de la Universidad de Xiamen.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/CO_IC_MEDELLIN_EAFIT.png",
+                "phone": "57 4 2619500",
+                "phone_2": "",
+                "place": "Universidad EAFIT y Universidad de Antioquia",
+                "type": "Instituto",
+                "website": "https://www.institutoconfuciomedellin.org/Paginas/inicio.aspx",
+                "year": "2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.85042623275902",
+                    "11.019563698354268"
+                ]
+            },
+            "properties": {
+                "id": "28",
+                "cooperation": "Instituto Confucio de Medellín",
+                "address": "Bloque i1 primer piso Universidad del Norte - Km. 5 Vía Puerto Colombia",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Barranquilla",
+                "country_name": "Colombia",
+                "email_1": "iidiomas@uninorte.edu.co",
+                "email_2": "",
+                "extension": "ext. 4275 - 4496",
+                "institute_id": "28",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/CO_AU_UNIVERSIDAD-NORTE.png",
+                "phone": "57 5 3509509 ",
+                "phone_2": "",
+                "place": "Universidad del Norte",
+                "type": "Aula",
+                "website": "https://www.uninorte.edu.co/web/instituto-de-idiomas/chino-mandarin",
+                "year": "2020"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.06672942226825",
+                    "4.600936752491852"
+                ]
+            },
+            "properties": {
+                "id": "29",
+                "cooperation": "Universidad de Nankai",
+                "address": "Calle 18 No. 1-07 - Bloque Ñn Bogotá - Colombia",
+                "agreement_1": "Colegios Gimnasio Vermont",
+                "agreement_2": "Montessori British School ",
+                "chinese_director": "Mingjun Yuan",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Bogotá",
+                "country_name": "Colombia",
+                "email_1": "confucio@uniandes.edu.co",
+                "email_2": "",
+                "extension": "ext. 5585",
+                "institute_id": "29",
+                "local_director": "Catalina González Uribe",
+                "local_director_email": "",
+                "local_director_profile": "Antropóloga de la Universidad de Los Andes y Doctora en Epidemiología y Salud Pública de la Universidad de Londrés. Actualmente es la Directora de Internacionalización de la Universidad de Los Andes.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/CO_IC_LOS_ANDES.jpg",
+                "phone": "57 1 3394949",
+                "phone_2": "",
+                "place": "Universidad de Los Andes",
+                "type": "Instituto",
+                "website": "https://confucio.uniandes.edu.co/",
+                "year": "2007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.07800413456374",
+                    "4.718095248511658"
+                ]
+            },
+            "properties": {
+                "id": "30",
+                "cooperation": "Universidad de Los Andes",
+                "address": "Cl. 128 # 72 - 80",
+                "agreement_1": "Universidad de Nankai",
+                "agreement_2": "Universidad de Nankai",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Bogotá",
+                "country_name": "Colombia",
+                "email_1": "admisiones@mbs.edu.co",
+                "email_2": "",
+                "extension": "ext 6528585",
+                "institute_id": "30",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "57 1 6528585",
+                "phone_2": "",
+                "place": "Montessori British School",
+                "type": "Aula",
+                "website": "https://www.mbs.edu.co/magic/admisiones-mbs/",
+                "year": "2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.052946757193",
+                    "4.773562760908023"
+                ]
+            },
+            "properties": {
+                "id": "31",
+                "cooperation": "Universidad de Los Andes",
+                "address": "Cl. 195 #54 -75",
+                "agreement_1": "Instituto Hanban",
+                "agreement_2": "Instituto Hanban",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Bogotá",
+                "country_name": "Colombia",
+                "email_1": "contactenos@gimnasiovermont.edu.co",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "31",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "57 1 5185757",
+                "phone_2": "",
+                "place": "Gimnasio Vermont",
+                "type": "Aula",
+                "website": "https://www.gimnasiovermont.edu.co/departamento-de-mandarin/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.14407181784279",
+                    "4.823570240769236"
+                ]
+            },
+            "properties": {
+                "id": "32",
+                "cooperation": "Universidad de Los Andes",
+                "address": "Km 7, Tenjo, Cundinamarca",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Tenjo",
+                "country_name": "Colombia",
+                "email_1": "contacto@gcrb.edu.co",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "32",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "57 1 5082240",
+                "phone_2": "",
+                "place": "Gimnasio Campestre Reino Británico",
+                "type": "Aula",
+                "website": "",
+                "year": "2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.05279386272426",
+                    "9.935018221042393"
+                ]
+            },
+            "properties": {
+                "id": "33",
+                "cooperation": "Universidad Renmin de China",
+                "address": "Vieja Escuela de Enfermería, San José, San Pedro, Costa Rica",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Dr. Kuok-Wa (Jimmy) Chao Chao",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Docente del Departamento de Lenguas Modernas de la Universidad de Costa Rica.",
+                "city_name": "San José",
+                "country_name": "Costa Rica",
+                "email_1": "instituto.confucio@ucr.ac.cr",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "33",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/CRICA_IC_U_COSTA_RICA.jpg",
+                "phone": "506 2511 6870",
+                "phone_2": "",
+                "place": "Universidad de Costa Rica",
+                "type": "Instituto",
+                "website": "http://institutoconfucio.ucr.ac.cr/",
+                "year": "2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-82.3643781445135",
+                    "23.135142139601633"
+                ]
+            },
+            "properties": {
+                "id": "34",
+                "cooperation": "Universidad de Lengua y Cultura de Pekín",
+                "address": "San Nicolás / Zanja y Dragones 10400 Centro Habana",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "La Habana",
+                "country_name": "Cuba",
+                "email_1": "confucio@rect.uh.cu",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "34",
+                "local_director": "Yorbelis Rosell",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/CUBA_IC_HABANA.jpg",
+                "phone": "53 7 8610133",
+                "phone_2": "",
+                "place": "Universidad de La Habana",
+                "type": "Instituto",
+                "website": "https://www.facebook.com/ConfucioUH/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.4361949197026",
+                    "-0.19692213668468597"
+                ]
+            },
+            "properties": {
+                "id": "35",
+                "cooperation": "Universidad China del Petróleo",
+                "address": "RH37+4G5, Quito 170902, Ecuador",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Zhang Hao",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Lengua y literatura inglesa.",
+                "city_name": "Quito",
+                "country_name": "Ecuador",
+                "email_1": "mcisnerosb@usfq.edu.ec",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "35",
+                "local_director": "Kiara Guerra Ayala",
+                "local_director_email": "",
+                "local_director_profile": "Licenciada en Relaciones Internacionales y tiene una Maestría en Políticas Públicas.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/EC_IC_SAN_FRANCISCO_QUITO.png",
+                "phone": "59 3 2 297 1700",
+                "phone_2": "",
+                "place": "Universidad de San Francisco",
+                "type": "Instituto",
+                "website": "https://www.usfq.edu.ec/es/instituto-confucio",
+                "year": "2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.47589625506446",
+                    "-0.17280777580198656"
+                ]
+            },
+            "properties": {
+                "id": "36",
+                "cooperation": "",
+                "address": "Calle Hernando Sarmiento N39-30 y Portete, pasando el Centro Comercial Olímpico.",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Cao Xiano Hang",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Profesor especializado en la enseñanza del idioma chino Mandarín para extranjeros.",
+                "city_name": "Quito",
+                "country_name": "Ecuador",
+                "email_1": "infoquito@siyuan.com.ec",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "36",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/EC_ESCUELA_SIYUAN_QUITO2-copia.jpg",
+                "phone": "59 3992879517 ",
+                "phone_2": "59 3958980355",
+                "place": "Escuela Confucio en Siyuan Academia de Lengua China",
+                "type": "Aula",
+                "website": "https://www.siyuan.com.ec/",
+                "year": "2004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.4413823817715",
+                    "-0.20331631912972745"
+                ]
+            },
+            "properties": {
+                "id": "37",
+                "cooperation": "",
+                "address": "San Juan bajo, Medardo Silva S4-171y Aurora Estrada Ref a 100mtros de Colegio Nacional Cumbaya.",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Cao Xiano Hang",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Profesor especializado en la enseñanza del idioma chino Mandarín para extranjeros.",
+                "city_name": "Quito",
+                "country_name": "Ecuador",
+                "email_1": "infoquito@siyuan.com.ec",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "37",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/EC_ESCUELA_SIYUAN_CUMBAYA-2.jpg",
+                "phone": "59 02 6001859 ",
+                "phone_2": "59 02 3567191",
+                "place": "Escuela Confucio en Siyuan Academia de Lengua China",
+                "type": "Aula",
+                "website": "https://www.siyuan.com.ec/siyuan-cumbaya/",
+                "year": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-89.2028821029071",
+                    "13.720256817238253"
+                ]
+            },
+            "properties": {
+                "id": "38",
+                "cooperation": "Universidad de Ciencias y Tecnología del Suroeste de China",
+                "address": "Final de Av. Mártires y Héroes del 30 de Julio",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Wang Jinlong",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Maestría en Educación de la Universidad del Suroeste de China y la Licenciatura en Artes de la Universidad de Estudios Internacionales de Sichuan.",
+                "city_name": "San Salvador",
+                "country_name": "El Salvador",
+                "email_1": "instituto.confucio@ues.edu.sv",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "38",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/SV_IC_U_EL_SALVADOR.png",
+                "phone": "503 2511 2000",
+                "phone_2": "",
+                "place": "Universidad de El Salvador",
+                "type": "Instituto",
+                "website": "https://ic.ues.edu.sv/",
+                "year": "2019"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-61.74641495103968",
+                    "12.048474739699056"
+                ]
+            },
+            "properties": {
+                "id": "39",
+                "cooperation": "Ningbo University of Technology",
+                "address": "Tanteen Tanteen Road, St George's, Granada",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Saint George",
+                "country_name": "Granada",
+                "email_1": "qinyi@nbut.edu.cn ",
+                "email_2": "norellap@tamcc.edu.gd",
+                "extension": "ext 2335",
+                "institute_id": "39",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "1 473 4189472",
+                "phone_2": "1 473 4401389",
+                "place": "T.A. Marryshow Community College",
+                "type": "Aula",
+                "website": "",
+                "year": "2015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-58.117927108979416",
+                    "6.812370256379796"
+                ]
+            },
+            "properties": {
+                "id": "40",
+                "cooperation": "Universidad de Estudios Extranjeros de Dalian",
+                "address": "Bottom Floor of Education Building, Turkeyen Campus, UG",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Georgetown",
+                "country_name": "Guyana",
+                "email_1": "ciug@uog.edu.gy",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "40",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/GUYANA_IC_UGUYANA.png",
+                "phone": "59 2 222 6893",
+                "phone_2": "",
+                "place": "Universidad de Guyana",
+                "type": "Instituto",
+                "website": "https://ciug.uog.edu.gy/",
+                "year": "2014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.3217763335061",
+                    "18.527458953658474"
+                ]
+            },
+            "properties": {
+                "id": "41",
+                "cooperation": "Universidad Internacional de Heilongjiang",
+                "address": "218 Ave Jean-Paul II, Port-au-Prince 6110",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Puerto Príncipe",
+                "country_name": "Haití",
+                "email_1": "confuciusclassroom@uniq.edu.ht",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "41",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/HAITI_AU_U_QUISQUEYA.jpg",
+                "phone": "509 42 35 7056",
+                "phone_2": "",
+                "place": "Universidad Quisqueya",
+                "type": "Aula",
+                "website": "https://www.facebook.com/ccuniqhaiti/ ",
+                "year": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-76.7468806241616",
+                    "18.005915710641386"
+                ]
+            },
+            "properties": {
+                "id": "42",
+                "cooperation": "Universidad Tecnológica de Taiyuan",
+                "address": "6 Gibraltar Hall Road, University of the West Indies, Mona, Kingston 7, Jamaica W.I.",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Dr. Feng Lei",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Kingston",
+                "country_name": "Jamaica",
+                "email_1": "confuciusinstituteuwi@gmail.com",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "42",
+                "local_director": "Courtney A. Hogarth",
+                "local_director_email": "",
+                "local_director_profile": "Artista y poeta. Es Doctor en Pintura y Filosofía Clásica China de la Academia Central de Bellas Artes de Beijing.",
+                "logo": "",
+                "phone": "876 9270375",
+                "phone_2": "876 9704795",
+                "place": "Universidad de las Indias Occidentales en Mona",
+                "type": "Instituto",
+                "website": "https://www.facebook.com/CONFUCIUSUWIMONA/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-99.16071125810724",
+                    "19.373827191881716"
+                ]
+            },
+            "properties": {
+                "id": "43",
+                "cooperation": "Escuela Secundaria Luhe",
+                "address": "Av. Cuauhtémoc No. 1221, Col. Santa Cruz Atoyac, Deleg. Benito Juarez, C.P. 13310, México, D.F. México, D.F.",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "CDMX",
+                "country_name": "México",
+                "email_1": "huaxiamex@hotmail.com",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "43",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/MX_IC_CIUDAD-MEXICO.jpg",
+                "phone": "52 55 56043611",
+                "phone_2": "",
+                "place": "Instituto Confucio de la Ciudad de México",
+                "type": "Instituto",
+                "website": "https://www.facebook.com/ciudaddemexico.institutoconfucio.3/",
+                "year": "2006"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-100.27726186209702",
+                    "25.612089814954007"
+                ]
+            },
+            "properties": {
+                "id": "44",
+                "cooperation": "Oficina Nacional para la Enseñanza del Chino como Lengua Extranjera ONECLE",
+                "address": "Av. Lázaro Cárdenas Ote. y Paseo de la Reforma S/N Campus Mederos U.A.N.L. Monterrey, N.L. México",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Zhu Xiaoshu",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Monterrey",
+                "country_name": "México",
+                "email_1": "ccl@uanl.mx",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "44",
+                "local_director": "Sara Alicia Ancira Aréchiga",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/MX_IC_U_AUTONOMA_NUEVO_LEON.png",
+                "phone": "52 81 13404700",
+                "phone_2": "",
+                "place": "Universidad Autónoma de Nuevo León",
+                "type": "Instituto",
+                "website": "http://www.ccl.uanl.mx/instituto-confucio/",
+                "year": "2006"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-89.59939137709746",
+                    "20.978082752807843"
+                ]
+            },
+            "properties": {
+                "id": "45",
+                "cooperation": "Universidad Sun Yat-sen",
+                "address": "C. 20 14, Chuminópolis, 97155 Mérida, Yuc., México",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Yu Zhantao",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Yucatán",
+                "country_name": "México",
+                "email_1": "instituto.confucio@correo.uady.mx",
+                "email_2": "",
+                "extension": "ext. 40360/ 65/ 69",
+                "institute_id": "45",
+                "local_director": "Pamela Cristales Ancona",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/MX_IC_UADY.jpg",
+                "phone": "52 999 9282711 ",
+                "phone_2": "",
+                "place": "Universidad Autónoma de Yucatán",
+                "type": "Instituto",
+                "website": "https://institutoconfucio.uady.mx/#/inicioconfucio",
+                "year": "2008"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-99.17237880453752",
+                    "19.408210207904165"
+                ]
+            },
+            "properties": {
+                "id": "46",
+                "cooperation": "Universidad de Lengua y Cultura de Pekín",
+                "address": "Av Nuevo León 167, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, México",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Li Cheng",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "CDMX",
+                "country_name": "México",
+                "email_1": "inst.conf.unam@gmail.com",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "46",
+                "local_director": "Jenny Acosta Trujillo",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/MX_IC_UNAM.jpg",
+                "phone": "52 5518 6999",
+                "phone_2": "",
+                "place": "Universidad Nacional Autónoma de México",
+                "type": "Instituto",
+                "website": "https://www.facebook.com/institutoconfucioenlaunam2018",
+                "year": "2008"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-106.08480214743753",
+                    "28.654925131142267"
+                ]
+            },
+            "properties": {
+                "id": "47",
+                "cooperation": "Segundo Instituto de Lenguas Extranjeras de Beijing",
+                "address": "Av División del Nte s/n, Magisterial Universidad, 31000 Chihuahua, Chih., México",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Teng Xueming",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Chihuahua",
+                "country_name": "México",
+                "email_1": "instituto_confucio@uach.mx",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "47",
+                "local_director": "Nora Alejandra Flores Nava",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/MX_IC_UACH.jpg",
+                "phone": "52 614 238 2079",
+                "phone_2": "",
+                "place": "Universidad Autónoma de Chihuahua",
+                "type": "Instituto",
+                "website": "https://uach.mx/instituto-confucio/",
+                "year": "2006"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.53085893314667",
+                    "8.983947818493926"
+                ]
+            },
+            "properties": {
+                "id": "48",
+                "cooperation": "Universidad de Estudios Internacionales de Beijing",
+                "address": "Campus Central de la Universidad de Panamá",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Sofía Dong",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Panamá",
+                "country_name": "Panamá",
+                "email_1": "sofia@bisu.edu.cn",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "48",
+                "local_director": "Junhui David Wu",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/PANAMA_IC_U_PANAMA.jpg",
+                "phone": "507 523 6080",
+                "phone_2": "",
+                "place": "Universidad de Panamá",
+                "type": "Instituto",
+                "website": "https://www.facebook.com/Instituto-Confucio-de-la-Universidad-de-Panam%C3%A1-1568350386595952",
+                "year": "2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.5383107458143",
+                    "-16.40063571693803"
+                ]
+            },
+            "properties": {
+                "id": "49",
+                "cooperation": "Universidad de Estudios Extranjeros de Guangdong",
+                "address": "La Merced 207 Cercado | Arequipa - Perú",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Peng Qigui",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Arequipa",
+                "country_name": "Perú",
+                "email_1": "confucio@ucsm.edu.pe",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "49",
+                "local_director": "Mgter. Angélica Corzo Salas de Valdivia",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/PE_IC_UCSM.png",
+                "phone": "51 54 201854",
+                "phone_2": "",
+                "place": "Universidad Católica Santa María",
+                "type": "Instituto",
+                "website": "https://www.ucsm.edu.pe/instituto-confucio/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.63397646636358",
+                    "-5.17702515892957"
+                ]
+            },
+            "properties": {
+                "id": "50",
+                "cooperation": "Universidad Normal de la Capital, Beijing",
+                "address": "Av. Ramón Mugica 131, Urb. San Eduardo. (3.312,08 km) Piura, Peru",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Ma Zheng",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Profesora de la Capital Normal University de Beijing. Doctora en Filología Hispánica por la Universidad de Estudios Extranjeros de Beijing.",
+                "city_name": "Piura",
+                "country_name": "Perú",
+                "email_1": "confucio@udep.pe",
+                "email_2": "",
+                "extension": "Anexo 3916",
+                "institute_id": "50",
+                "local_director": "William Zapata",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/PE_IC_UCSM.png",
+                "phone": "073 284500 ",
+                "phone_2": "",
+                "place": "Universidad de Piura",
+                "type": "Instituto",
+                "website": "https://2020.udep.edu.pe/confucio/",
+                "year": "2007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.08061721776564",
+                    "-12.078124234262507"
+                ]
+            },
+            "properties": {
+                "id": "51",
+                "cooperation": "Universidad de Estudios Internacionales de Shanghai",
+                "address": "Av. Universitaria 890, San Miguel (cruce con la Av. La Marina) Lima 32 – Perú",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Zhao Lihong",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Lima",
+                "country_name": "Perú",
+                "email_1": "estudiaenconfucio@pucp.edu.pe",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "51",
+                "local_director": "Maribel Temoche Cortez",
+                "local_director_email": "",
+                "local_director_profile": "Magister en política y Gestión Universitaria.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/PE_IC_PUCP.png",
+                "phone": "51 932 038 167",
+                "phone_2": "",
+                "place": "Pontificia Universidad Católica del Perú",
+                "type": "Instituto",
+                "website": "https://confucio.pucp.edu.pe/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-76.97965103144237",
+                    "-12.131766408500475"
+                ]
+            },
+            "properties": {
+                "id": "52",
+                "cooperation": "Universidad Normal de Hebei",
+                "address": "Av. Benavides 5440 - Aulario Inca Roca - Pabellón B - Oficinas 305 y 304 - Santiago de Surco- Lima - Perú",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Lima",
+                "country_name": "Perú",
+                "email_1": "iconfucio@urp.edu.pe",
+                "email_2": "iiconfuciourp@gmail.com",
+                "extension": "Anexo 5114",
+                "institute_id": "52",
+                "local_director": "Mag. Cecilia Tello Álvarez. ",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/PE_IC_RICARDO_PALMA.jpg",
+                "phone": "51 1 708 0000",
+                "phone_2": "",
+                "place": "Universidad Ricardo Palma",
+                "type": "Instituto",
+                "website": "http://www2.urp.edu.pe/iconfucio/",
+                "year": "2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-69.96276343113813",
+                    "18.488328315883606"
+                ]
+            },
+            "properties": {
+                "id": "53",
+                "cooperation": "Universidad de Heilongjiang",
+                "address": "Av. Los Próceres, Jardines del Norte. P.O. Box 342-9 y 249-2 Santo Domingo",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Lyu Xiaoduan",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Santo Domingo",
+                "country_name": "República Dominicana ",
+                "email_1": "confucio@intec.edu.do",
+                "email_2": "",
+                "extension": "ext. 670",
+                "institute_id": "53",
+                "local_director": "Gracham Rodríguez",
+                "local_director_email": "",
+                "local_director_profile": "Licenciada en Mercadeo del Instituto Tecnológico de Santo Domingo (INTEC); Máster en Negocios Internacionales del Centro de Estudios Financieros (CEF) en Madrid, España; Magister en Gerencia de Calidad y Productividad. Actualmente es la Coordinadora Administrativa del Centro Internacional de Idiomas del INTEC.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/REP_DOM_IC_INTEC.png",
+                "phone": "809 567 9271 ",
+                "phone_2": "",
+                "place": "Instituto Tecnológico de Santo Domingo",
+                "type": "Instituto",
+                "website": "https://confucio.intec.edu.do/es/",
+                "year": "2019"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-55.2135196697558",
+                    "5.814791226417576"
+                ]
+            },
+            "properties": {
+                "id": "54",
+                "cooperation": "Zhejiang Sci-Tech University of China",
+                "address": "University Guesthouse, Leysweg 70, Paramaribo, Surinam",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Paramaribo",
+                "country_name": "Surinam",
+                "email_1": "preetema2@gmail.com",
+                "email_2": "ci@uvs.edu",
+                "extension": "",
+                "institute_id": "54",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "59 7 8563646",
+                "phone_2": "59 7 465545",
+                "place": "Universidad de Surinam",
+                "type": "Instituto",
+                "website": "https://www.facebook.com/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2-Confucius-Institute-of-Suriname-357772042028078/",
+                "year": "2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-61.39878184343994",
+                    "10.643077298615935"
+                ]
+            },
+            "properties": {
+                "id": "55",
+                "cooperation": "Universidad Agrícola de China",
+                "address": "The Confucius Institute at UWI St. Augustine, 2nd Floor, Centre for Language Learning Building, UWI St. Augustine Campus, Trinidad and Tobago, West Indies",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Saint Augustine",
+                "country_name": "Trinidad y Tobago",
+                "email_1": "Confucius@sta.uwi.edu",
+                "email_2": "",
+                "extension": "ext. 83213 / 83278",
+                "institute_id": "55",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/TT_IC_WEST_INDIES.png",
+                "phone": "868 662 2002",
+                "phone_2": "",
+                "place": "Universidad de West Indies",
+                "type": "Instituto",
+                "website": "https://sta.uwi.edu/confucius/home",
+                "year": "2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-56.1588770306061",
+                    "-34.891588576588866"
+                ]
+            },
+            "properties": {
+                "id": "56",
+                "cooperation": "Universidad de Qingdao",
+                "address": "Av. Dr. Manuel Albo 2663 Esquina Av. Italia - C.P. 11600",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "Bi Xiaofen",
+                "chinese_director_email": "",
+                "chinese_director_profile": "Docente del Instituto Huang Tingting.",
+                "city_name": "Montevideo",
+                "country_name": "Uruguay",
+                "email_1": "",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "56",
+                "local_director": "Cheung Koon Yim",
+                "local_director_email": "",
+                "local_director_profile": "Arquitecto de la Universidad de la República. Actualmente es coordinador académico del Centro de Integración Cultural Uruguay-China, da clases de mandarín en la escuela República Popular China del barrio Casavalle.",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/UY_IC_UDELAR.png",
+                "phone": "598 24834919",
+                "phone_2": "598 24834852",
+                "place": "Universidad de la República Uruguay",
+                "type": "Instituto",
+                "website": "https://udelar.edu.uy/confucio/",
+                "year": "2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-66.88581374634421",
+                    "10.487638762590624"
+                ]
+            },
+            "properties": {
+                "id": "57",
+                "cooperation": "Universidad de Changzhou",
+                "address": "Piso 9. Edificio UBV, Av. Leonardo Da Vinci, Los Chaguaramos",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Caracas",
+                "country_name": "Venezuela ",
+                "email_1": "",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "57",
+                "local_director": "Andreína Bermúdez Di Lorenzo",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "https://fundacionandresbello.org/wp-content/uploads/2022/08/VE_IC_U_BOLIVARIANA.jpg",
+                "phone": "58 212 6063187",
+                "phone_2": "",
+                "place": "Universidad Bolivariana de Venezuela",
+                "type": "Instituto",
+                "website": "http://institutoconfucio.ubv.edu.ve/",
+                "year": "2016"
+            }
+        }
+    ]
+}

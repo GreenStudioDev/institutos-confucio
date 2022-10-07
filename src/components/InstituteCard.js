@@ -1,5 +1,7 @@
-import "../App.js";
-// import { useGeoInstitutes } from "../helpers/getGeoInstitutes.js";
+import "../App.css";
+import { useContext } from "react";
+import { mapContext } from "../context";
+
 
 
 export const InstituteCard = ({
@@ -25,11 +27,23 @@ export const InstituteCard = ({
   chinese_director_email,
   chinese_director_profile,
   logo,
+  coordinates,
 }) => {
+
+
+  const { map } = useContext(mapContext)
+
+  const onClick = () => {
+    map.flyTo({
+      center: coordinates,
+      zoom: 15,
+      pitch: 63,
+      bearing: 80,
+    });
+  };
+
   return (
-    <>
-        {/* <a href="#"> */}
-      <div className="item">
+      <div className="item" onClick = {onClick}>
           <div className="title">{name}</div>
         <div>{address}</div>
         <div>{city}</div>
@@ -55,7 +69,5 @@ export const InstituteCard = ({
         <div>{chinese_director_profile}</div>
       <img src={logo} alt={"logo " + name} className="logo" /> */}
       </div>
-      {/* </a> */}
-    </>
   );
 };

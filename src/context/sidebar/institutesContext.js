@@ -1,13 +1,12 @@
-import { createContext, useEffect } from "react";
-// import { setInstitutes } from "../../actions";
-// import { getInstitutes } from "../../api/index";
+import { createContext} from "react";
 
-export const institutesContext = createContext({});
 
-// useEffect(() => {
-//   const fetchInstitutes = async () => {
-//     const institutesRes = await getInstitutes();
-//     setInstitutes(institutesRes);
-//   };
-//   fetchInstitutes();
-// }, []);
+
+export const institutesState = {
+    isLoading: true,
+    institutes: {},
+  }
+
+export const institutesContext = createContext();
+
+

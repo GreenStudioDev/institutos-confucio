@@ -1,23 +1,8 @@
-import "../App.js";
-import { InstitutesList } from "./InstitutesList";
-// import { getInstitutes } from "../api/index";
-// import { useSelector, useDispatch } from "react-redux";
-// import { useEffect, useState } from "react";
- // import { setInstitutes } from "../actions/index";
-//  import { useGeoInstitutes } from "../helpers/getGeoInstitutes";
+import "../App.css";
+import { InstitutesList } from ".";
+
 
 export const Sidebar = () => {
-
-  // const institutes = useGeoInstitutes();
-  // const [institutes, setInstitutes] = useState([]);
-
-  // useEffect(() => {
-  //   const fetchInstitutes = async () => {
-  //     const institutesRes = await getInstitutes();
-  //     setInstitutes(institutesRes)
-  //   }
-  //   fetchInstitutes()
-  // }, []);
 
   return (
     <>
