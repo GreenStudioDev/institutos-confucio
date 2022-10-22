@@ -1,10 +1,10 @@
-// eslint-disable-next-line import/no-webpack-loader-syntax
-// import { Map } from "!mapbox-gl";
-// import { mapState } from ".. ";
 
-// const mapAction = { type: "setMap", payload: Map };
+import { Map } from "mapbox-gl";
+import { mapState } from "..";
 
-export const mapReducer = (state, action) => {
+const mapAction = { type: "setMap", payload: Map };
+
+export const mapReducer = (state=mapState, action=mapAction) => {
   switch (action.type) {
     case "setMap":
       return {

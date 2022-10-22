@@ -1,5 +1,4 @@
-// eslint-disable-next-line import/no-webpack-loader-syntax
-import { Map, } from "!mapbox-gl";
+import { Map } from "mapbox-gl";
 import React, { useContext, useReducer } from "react";
 import { mapContext, mapReducer } from "..";
 
@@ -9,14 +8,11 @@ export const mapState = {
 };
 
 export const MapProvider = ({ children }) => {
-
   const [state, dispatch] = useReducer(mapReducer, mapState);
 
   const setMap = (map = Map) => {
-      
-      dispatch({ type: "setMap", payload: map });
-      
-    } 
+    dispatch({ type: "setMap", payload: map });
+  };
 
   return (
     <mapContext.Provider

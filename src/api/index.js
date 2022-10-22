@@ -1,5 +1,9 @@
 import axios from "axios";
 
+export { default as institutesApi } from "./institutesApi";
+
+
+
 export const getInstitutes = async () => {
 const response = await axios
 .get("https://fundacionandresbello.org/wp-json/fab/v1/institutes")
@@ -8,4 +12,3 @@ const response = await axios
 
   return response
 };
-

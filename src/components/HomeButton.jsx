@@ -1,5 +1,6 @@
 import { useContext } from "react";
 import { mapContext } from "../context";
+import "../App.css";
 
 export const NavigateButton = () => {
 //   const { institutesMap } = useMap();
@@ -7,12 +8,12 @@ const { map } = useContext(mapContext)
 
   const onClick = () => {
     map.flyTo({
-      center: [-67.546, -39.427],
-      zoom: 3.5,
+      center: [-62.546, -33.127],
+      zoom: 3.18,
       pitch: 63,
       bearing: -10,
     });
   };
 
-  return <button onClick={onClick}>Volver</button>;
+  return <button className="home-button" onClick={onClick}>Volver</button>;
 };

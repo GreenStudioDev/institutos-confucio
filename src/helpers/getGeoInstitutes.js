@@ -15,11 +15,13 @@ export const useGeoInstitutes = () => {
     
   }, []);
       
+
+  
       
 
   const resGeoInstitutes = 
-   {
-        type: "FeatureCollection",
+  {
+    type: "FeatureCollection",
     features: institutes.map((institute) => {
       return {
         type: "Feature",
@@ -56,8 +58,8 @@ export const useGeoInstitutes = () => {
       };
     }),
   };
-
-return resGeoInstitutes
-
+  
+  return resGeoInstitutes
+  
 }
 
