@@ -32,11 +32,18 @@ export const MapView = () => {
   //   )
   //   }
   useEffect(() => {
+
+    let mapZoom = ( ) => {
+      if (window.innerWidth <= 500) {
+        return (2.31)
+     } else return (3.18)
+    }
+  
     const map = new Map({
       container: mapContainer.current,
       style: "mapbox://styles/anhisa/cl7hqs5ru002i14o8bxejg8tx",
       center: [-62.546, -33.127],
-      zoom: 3.18,
+      zoom: mapZoom(),
       pitch: 63, // pitch in degrees
       bearing: -10, // bearing in degrees
     })
@@ -81,63 +88,64 @@ export const MapView = () => {
               />
                   <hr/>
                   </div>
-                  <div class= "popup-box-item">
+                  <div class= ${e.features[0].properties.website === '' ? "popup-box-item-hide" : "popup-box-item"}>
                 <a href = ${e.features[0].properties.website} target = "blank">
                   <div>Visitar Website</div>
                 </a>
                 <hr/>
                 </div>
-                <div class= "popup-box-item">
+                <div class= ${e.features[0].properties.email_1 === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Email</div>
                   <div>${e.features[0].properties.email_1}</div>
+                  <div>${e.features[0].properties.email_2}</div>
                   <hr/>
                 </div>
-                <div class= "popup-box-item">
+                <div class= ${e.features[0].properties.phone === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Teléfono</div>
                   <div>${e.features[0].properties.phone}</div>
                   <hr/>
                   </div>
-                  <div class= "popup-box-item">
+                  <div class= ${e.features[0].properties.chinese_director === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Director Chino</div>
                   <div>${e.features[0].properties.chinese_director}</div>
                   <hr/>
                   </div>
-                  <div class= "popup-box-item">
+                  <div class= ${e.features[0].properties.chinese_director_email === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Email del director Chino</div>
                   <div>${e.features[0].properties.chinese_director_email}</div>
                   <hr/>
                   </div>
-                  <div class= "popup-box-item">
+                  <div class= ${e.features[0].properties.chinese_director_profile === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Perfil del director Chino</div>
                   <div>${e.features[0].properties.chinese_director_profile}</div>
                   <hr/>
                   </div>
-                  <div class= "popup-box-item">
+                  <div class= ${e.features[0].properties.cooperation === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Cooperación</div>
                   <div>${e.features[0].properties.cooperation}</div>
                   <hr/>
                   </div>
-                  <div class= "popup-box-item">
+                  <div class= ${e.features[0].properties.local_director === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Director local</div>
                   <div>${e.features[0].properties.local_director}</div>
                   <hr/>
                 </div>
-                <div class= "popup-box-item">
+                <div class= ${e.features[0].properties.local_director_email === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Email del Director local</div>
                   <div>${e.features[0].properties.local_director_email}</div>
                   <hr/>
                 </div>
-                <div class= "popup-box-item">
+                <div class= ${e.features[0].properties.local_director_profile === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Perfil del Director local</div>
                   <div>${e.features[0].properties.local_director_profile}</div>
                   <hr/>
                 </div>
-                <div class= "popup-box-item">
+                <div class= ${e.features[0].properties.year === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Inauguración</div>
                   <div>${e.features[0].properties.year}</div>
                   <hr/>
                 </div>
-                <div class= "popup-box-image">
+                <div class= ${e.features[0].properties.logo === '' ? "popup-box-item-hide" : "popup-box-item"}>
                   <div class="title">Logo</div>
                   <img class="logo" src = ${e.features[0].properties.logo} ></img>
                 </div>

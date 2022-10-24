@@ -11,8 +11,10 @@ export const App = () => {
     <div className="App">
       <InstitutesModal />
       <NavigateButton />
-      <Sidebar />
-      <MapView />
+      <div className="layout">
+        <Sidebar />
+        <MapView />
+      </div>
     </div>
   );
 };

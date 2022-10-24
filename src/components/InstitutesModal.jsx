@@ -23,8 +23,8 @@ const style = {
 const buttonStyle = {
   position: "absolute",
   zIndex: 999,
-  right: 40,
-  top: 90,
+  right: 20,
+  bottom: 35,
   p: 3.5,
 //   bgColor: "linear-gradient(-180deg, #00D775, #00BD68)",
   backgroundImage: "linear-gradient(-180deg, #00D775, #00BD68)",
@@ -40,6 +40,14 @@ const buttonStyle = {
   "&:hover": {
     background: "#00bd68",
   },
+  '@media (max-width: 501px)': {
+    bottom: "45vh",
+    height: "auto",
+    width: 130,
+    lineHeight: 1,
+    fontSize: "12px",
+    p: 1.5,
+  },
 };
 
 export const InstitutesModal = () => {
@@ -49,7 +57,7 @@ export const InstitutesModal = () => {
   return (
     <>
       <Button onClick={handleOpen} sx={buttonStyle}>
-        Acerca de los <br/> Institutos
+        Acerca de<br/>los Institutos
       </Button>
       <Modal
         open={open}
