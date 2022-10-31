@@ -1,22 +1,19 @@
 import { Button, Modal } from "@mui/material";
 import { Box } from "@mui/system";
 import { useState } from "react";
-import gif from "../img/InstitutosConfucioInfo-700px.png";
 
 const style = {
-    // display: "flex",
-    margin: "auto",
-//   position: "absolute",
-//   top: "50%",
-//   left: "50%",
-//   transform: "translate(-50%, -50%)",
+  margin: "auto",
   width: 700,
   bgcolor: "background.paper",
-//   border: "2px solid #000",
   boxShadow: 24,
   p: "32px 0",
   "&:focus-visible": {
     outline: "none",
+  },
+  "@media (max-width: 501px)": {
+    width: 300,
+    height: 450,
   },
 };
 
@@ -26,7 +23,7 @@ const buttonStyle = {
   right: 20,
   bottom: 35,
   p: 3.5,
-//   bgColor: "linear-gradient(-180deg, #00D775, #00BD68)",
+  //   bgColor: "linear-gradient(-180deg, #00D775, #00BD68)",
   backgroundImage: "linear-gradient(-180deg, #00D775, #00BD68)",
   borderRadius: 4,
   boxShadow: "rgba(0, 0, 0, 0.1) 0 2px 4px",
@@ -40,7 +37,7 @@ const buttonStyle = {
   "&:hover": {
     background: "#00bd68",
   },
-  '@media (max-width: 501px)': {
+  "@media (max-width: 501px)": {
     bottom: "45vh",
     height: "auto",
     width: 130,
@@ -57,7 +54,9 @@ export const InstitutesModal = () => {
   return (
     <>
       <Button onClick={handleOpen} sx={buttonStyle}>
-        Acerca de<br/>los Institutos
+        Acerca de
+        <br />
+        los Institutos
       </Button>
       <Modal
         open={open}
@@ -66,7 +65,17 @@ export const InstitutesModal = () => {
         aria-describedby="modal-modal-description"
       >
         <Box sx={style}>
-          <img src={gif} alt="indicaciones institutos Confucio" />
+          {window.innerWidth <= 500 ? (
+            <img
+              src="https://fundacionandresbello.org/infografiainstitutosconfucio-300x450/"
+              alt="indicaciones institutos Confucio"
+            />
+          ) : (
+            <img
+              src="https://fundacionandresbello.org/wp-content/uploads/2022/10/Comp-1-compr-700.gif"
+              alt="indicaciones institutos Confucio"
+            />
+          )}
         </Box>
       </Modal>
     </>

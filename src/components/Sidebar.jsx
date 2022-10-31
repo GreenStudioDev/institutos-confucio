@@ -1,6 +1,5 @@
 import "../App.css";
-// import { InstitutesList } from ".";
-import { InstituteCardCopy } from "./InstituteCardCopy";
+import { InstituteList } from ".";
 
 
 export const Sidebar = () => {
@@ -11,8 +10,7 @@ export const Sidebar = () => {
           <h2>Institutos Confucio en América Latina y el Caribe</h2>
         </div>
         <div className="listings">
-        {/* <InstitutesList /> */}
-        <InstituteCardCopy/>
+        <InstituteList/>
         </div> 
       </div>
     </>
