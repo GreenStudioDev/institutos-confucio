@@ -184,7 +184,7 @@ gets 2/3 of the page. You can adjust this to your personal liking. */
   background-color: #493131;
 } */
 
-.logo {
+.logo-institute {
   width: 100px;
   display: block;
   height: auto;
@@ -204,6 +204,7 @@ gets 2/3 of the page. You can adjust this to your personal liking. */
   display: block;
   height: auto;
   margin: 7px auto;
+  border-radius: 4px;
 }
 
 .popup-box-item {
@@ -260,12 +261,32 @@ gets 2/3 of the page. You can adjust this to your personal liking. */
     height: 40vh;
   }
   .home-button {
-    bottom: 55vh;
+    bottom: 40vh;
   }
   .heading {
     height: 9vh;
   }
   .listings {
     height: 31vh;
+  }
+  .popup-container {
+    max-height: 25vh;
+  }
+  .popup-flag {
+    width: 35px;
+  }
+  .popup-box-title span {
+    font-size: 13px;
+    line-height: 13px;
+  }
+  .popup-box-item {
+    font-size: 11px;
+  }
+  .popup-box-item .title {
+    font-weight: 700;
+    font-size: 10px;
+  }
+  .logo-institute {
+    width: 75px;
   }
 }

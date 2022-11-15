@@ -1,6 +1,5 @@
 import "../App.css";
 import { useContext, useState } from "react";
-import { mapContext } from "../context";
 import {
   Collapse,
   List,
@@ -8,8 +7,9 @@ import {
   ListItemIcon,
   ListItemText,
 } from "@mui/material";
-import { getListData } from "../helpers/getListData";
-import { getFlag } from "../helpers";
+import { mapContext } from "../context";
+import { getListData , getFlags2 } from "../helpers";
+// import {  getFlag } from "../helpers";
 import { ExpandLess, ExpandMore } from "@mui/icons-material";
 
 export const InstituteList = () => {
@@ -20,7 +20,7 @@ export const InstituteList = () => {
   const handleClick = (i) => {
     setOpen(i);
     if (i === open) {
-      setOpen(i);
+      setOpen(!open);
     }
   };
 
@@ -32,13 +32,17 @@ export const InstituteList = () => {
         let countryName = country.countriesInstitutes.name;
         return (
           <List key={`mainList-${i}`}>
-            <ListItem key={`li-${i}`} onClick={() => handleClick(i)}>
+            <ListItem
+              key={`li-${i}`}
+              onClick={() => handleClick(i)}
+              sx={{ cursor: "pointer", margin: 0 }}
+            >
               <ListItemIcon key={`listItemIcon-${i}`}>
                 <img
                   key={`listItemImage-${i}`}
-                  src={getFlag(countryName)}
+                  src={getFlags2(countryName)}
                   alt={`bandera de ${countryName}`}
-                  style={{ width: 50 }}
+                  style={{ width: 50, borderRadius: "4px" }}
                 />
               </ListItemIcon>
               <ListItemText key={`listItemText-${i}`} primary={countryName} />
@@ -89,7 +93,6 @@ export const InstituteList = () => {
                           key={items.institute.institute_coords + ix}
                           primary={items.institute.institute_city}
                         />
-                        <hr />
                       </ListItem>
                     );
                   })}

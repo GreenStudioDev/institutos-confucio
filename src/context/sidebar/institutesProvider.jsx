@@ -1,38 +1,36 @@
-import React, { useContext, useReducer } from "react";
+import React, { useContext, useEffect, useReducer, useState } from "react";
 import { institutesContext, institutesState, institutesReducer } from "..";
-import { institutesApi } from "../../api";
+import { institutesData, getInstitutes } from "../../api";
 // import { useGeoInstitutes } from "../../helpers";
 
 export const InstitutesProvider = ({ children }) => {
   const [state, dispatch] = useReducer(institutesReducer, institutesState);
 
-  const getInstitutes = async () => {
-    const resp = await institutesApi
-      .get("/institutes")
-      console.log("🚀 ~ file: institutesProvider.jsx ~ line 12 ~ getInstitutes ~ resp", resp)
-      // .then((res) => res.data)
-      // .catch((err) => console.log(err));
-    dispatch({
-      type: "getInstitutes",
-      payload: resp,
-    });
 
-    return resp;
-  };
+  const [institutes, setInstitutes] = useState([]);
 
-  // useEffect(() => {
-  //   dispatch({
-  //     type: "getInstitutes",
-  //     payload: getInstitutes,
-  //   });
-  // }, []);
+  useEffect(() => {
+    const fetchInstitutes = async () => {
+      const institutesRes = await getInstitutes();
+      setInstitutes(institutesRes)
+    }
+    fetchInstitutes()
+    // setInstitutes(institutesData)
+    // dispatch({
+    //   type: "getInstitutes",
+    //   payload: institutes,
+    // })
+    
+  }, []);
+
+
+
 
   return (
     <institutesContext.Provider
       value={{
         ...state,
-        //Methods
-        getInstitutes,
+        institutes,
       }}
     >
       {children}

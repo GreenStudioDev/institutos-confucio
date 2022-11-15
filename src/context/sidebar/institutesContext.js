@@ -7,6 +7,6 @@ export const institutesState = {
     institutes: [],
   }
 
-export const institutesContext = createContext();
+export const institutesContext = createContext(institutesState);
 
 

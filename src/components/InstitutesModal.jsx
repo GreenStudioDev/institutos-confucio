@@ -3,7 +3,7 @@ import { Box } from "@mui/system";
 import { useState } from "react";
 
 const style = {
-  margin: "auto",
+  margin: "4vh auto",
   width: 700,
   bgcolor: "background.paper",
   boxShadow: 24,
@@ -38,7 +38,7 @@ const buttonStyle = {
     background: "#00bd68",
   },
   "@media (max-width: 501px)": {
-    bottom: "45vh",
+    bottom: "31vh",
     height: "auto",
     width: 130,
     lineHeight: 1,
@@ -67,12 +67,12 @@ export const InstitutesModal = () => {
         <Box sx={style}>
           {window.innerWidth <= 500 ? (
             <img
-              src="https://fundacionandresbello.org/infografiainstitutosconfucio-300x450/"
+              src="https://fundacionandresbello.org/infografiainstitutosconfucio-300x450"
               alt="indicaciones institutos Confucio"
             />
           ) : (
             <img
-              src="https://fundacionandresbello.org/wp-content/uploads/2022/10/Comp-1-compr-700.gif"
+              src="https://fundacionandresbello.org/comp-1-compr-700"
               alt="indicaciones institutos Confucio"
             />
           )}
