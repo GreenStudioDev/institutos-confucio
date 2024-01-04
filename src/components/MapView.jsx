@@ -3,16 +3,19 @@ import "mapbox-gl/dist/mapbox-gl.css";
 // eslint-disable-next-line import/no-webpack-loader-syntax
 import mapboxgl, { Map, Popup } from "!mapbox-gl";
 import { useRef, useEffect, useContext } from "react";
-import { mapContext } from "../context";
+import { /*institutesContext,*/ mapContext } from "../context";
 import { getFlags2, institutesjson } from "../helpers";
 // import { getFlag } from "../helpers";
 
-mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
+mapboxgl.accessToken = "pk.eyJ1IjoiZmFiY2hpbmFsYXRhbSIsImEiOiJjbDl5NmxxbmQwMXBoM3JwYjN2enB5cXo3In0.MndM8LaRfUlGHHiadP7ZZg"
 
 export const MapView = () => {
   const mapContainer = useRef();
   const institutes = institutesjson;
   const { setMap } = useContext(mapContext);
+  // const { institutes } = useContext(institutesContext);
+  // console.log("🚀 ~ file: MapView.jsx:18 ~ MapView ~ institutes:", institutes)
+
 
   useEffect(() => {
     let mapZoom = () => {
@@ -75,7 +78,11 @@ export const MapView = () => {
                       ? "popup-box-item-hide"
                       : "popup-box-item"
                   }>
-                <a href = ${e.features[0].properties.website} target = "blank">
+                <a class= ${
+                  e.features[0].properties.website === ""
+                    ? "popup-box-item-hide"
+                    : "popup-box-item"
+                } href = ${e.features[0].properties.website} target = "blank">
                   <div>Visitar Website</div>
                 </a>
                 <hr/>
@@ -198,7 +205,7 @@ export const MapView = () => {
     });
 
     setMap(map);
-
+    
     return () => map.remove();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [institutes]);

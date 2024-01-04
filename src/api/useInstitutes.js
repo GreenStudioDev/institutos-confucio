@@ -9,9 +9,9 @@ const UseInstitutes = () => {
 useEffect(() => {
     const getInstitute = async () => {
         const response = await axios
-        .get("https://fundacionandresbello.org/wp-json/fab/v1/institutes")
+        .get("https://fab.local/wp-json/fab/v1/institutes")
         .then((res) => res.data)
-        .catch((err) => console.log(err));
+        .catch((err) => console.error(err));
         setInstitutes(response)
         
           return institutes
@@ -19,7 +19,6 @@ useEffect(() => {
         getInstitute()
 }, [institutes]);
 
-console.log("🚀 ~ file: getInstitutes.js ~ line 25 ~ useInstitutes", institutes)
     return  institutes;
 }
  

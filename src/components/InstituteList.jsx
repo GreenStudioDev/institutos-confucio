@@ -8,7 +8,9 @@ import {
   ListItemText,
 } from "@mui/material";
 import { mapContext } from "../context";
-import { getListData , getFlags2 } from "../helpers";
+import { getFlags2 } from "../helpers";
+import { useGetListData } from "../hooks";
+
 // import {  getFlag } from "../helpers";
 import { ExpandLess, ExpandMore } from "@mui/icons-material";
 
@@ -24,7 +26,7 @@ export const InstituteList = () => {
     }
   };
 
-  const DataList = getListData();
+  const DataList = useGetListData();
 
   return (
     <>

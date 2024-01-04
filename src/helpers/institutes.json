@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-58.397474421980974",
-                    "-34.59968361849732"
+                    -58.397474421980974,
+                    -34.59968361849732
                 ]
             },
             "properties": {
@@ -20,6 +20,7 @@
                 "chinese_director_email": "zhangqi9112@126.com",
                 "chinese_director_profile": "",
                 "city_name": "Buenos Aires",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000г\u001dq?2M?L??n?LA?",
                 "country_name": "Argentina",
                 "email_1": "instituoconfucio@uba.ar",
                 "email_2": "",
@@ -42,8 +43,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-57.95062378736851",
-                    "-34.913303141145406"
+                    -57.95062378736851,
+                    -34.913303141145406
                 ]
             },
             "properties": {
@@ -56,6 +57,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "La Plata",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0011?N\n??L??F\t\u001e?tA?",
                 "country_name": "Argentina",
                 "email_1": "confuciounlp@gmail.com",
                 "email_2": "",
@@ -78,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-64.18878696640047",
-                    "-31.43830703036356"
+                    -64.18878696640047,
+                    -31.43830703036356
                 ]
             },
             "properties": {
@@ -92,6 +94,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Maestro en Lingüística Aplicada. Actualmente es Profesor Asociado de la Universidad de Jinan.",
                 "city_name": "Córdoba",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000x??\u0015\u0015\fP??\u0004??4p??",
                 "country_name": "Argentina",
                 "email_1": "info@institutoconfucio.unc.edu.ar",
                 "email_2": "",
@@ -114,8 +117,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-62.270279482054576",
-                    "-38.701092982073284"
+                    -62.270279482054576,
+                    -38.701092982073284
                 ]
             },
             "properties": {
@@ -128,6 +131,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Bahía Blanca",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000$\u001a???\"O?ݺ2j?YC?",
                 "country_name": "Argentina",
                 "email_1": "contacto@crical.org",
                 "email_2": "",
@@ -150,8 +154,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-77.3531390167438",
-                    "25.06220383042952"
+                    -77.3531390167438,
+                    25.06220383042952
                 ]
             },
             "properties": {
@@ -164,6 +168,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Nassau",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??cԙVS?wa\u0019??\u000f9@",
                 "country_name": "Bahamas",
                 "email_1": "abdul.knowles@ub.edu.bs",
                 "email_2": "",
@@ -186,8 +191,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-59.62964440439152",
-                    "13.135658108669546"
+                    -59.62964440439152,
+                    13.135658108669546
                 ]
             },
             "properties": {
@@ -200,6 +205,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Ciencias Políticas y Derecho de China con un título de Doctor en Derecho Procesal Administrativo.",
                 "city_name": "Bridgetown",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000I|\u00160??M??X??tE*@",
                 "country_name": "Barbados",
                 "email_1": "confuciusinstitute@cavehill.uwi.edu",
                 "email_2": "",
@@ -208,7 +214,7 @@
                 "local_director": "David Bulbulia",
                 "local_director_email": "",
                 "local_director_profile": "Funcionario de carrera del Servicio Exterior de Barbados con formación académica en Sociología y Ciencias Políticas y título de posgrado en Relaciones Internacionales.",
-                "logo": "https://fundacionandresbello.org/barb_ic_university-_west_cave_hill/",
+                "logo": "https://fundacionandresbello.org/barb_ic_university-_west_cave_hill-no/",
                 "phone": "246 629-4970",
                 "phone_2": "",
                 "place": "Universidad de las Indias Occidentales en Cave Hill",
@@ -222,8 +228,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-66.14747229263034",
-                    "-17.394088529027304"
+                    -66.14747229263034,
+                    -17.394088529027304
                 ]
             },
             "properties": {
@@ -236,6 +242,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Cochabamba",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000vz?/p?P???_??d1?",
                 "country_name": "Bolivia",
                 "email_1": "institutoconfucioumss@gmail.com",
                 "email_2": "",
@@ -258,8 +265,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-46.610069571981974",
-                    "-23.590697005790368"
+                    -46.610069571981974,
+                    -23.590697005790368
                 ]
             },
             "properties": {
@@ -272,6 +279,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "São Paulo",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000A?}?\u0016NG???A?7?7?",
                 "country_name": "Brasil",
                 "email_1": "icunesp.institutoconfucio@unesp.br",
                 "email_2": "",
@@ -282,7 +290,7 @@
                 "local_director_profile": "Ingeniero de la Universidad de Sao Paulo, Maestro en Economía y Finanzas Públicas de la Fundación Getulio Vargas y Doctor en Ciencias Económicas por la Universidad Estadual de Campinas. Actualmente es profesor en la Facultad de Filosofía y Ciencias de la UNESP.",
                 "logo": "https://fundacionandresbello.org/br_ic_unesp_sao_paulo/",
                 "phone": "11 2066 5950",
-                "phone_2": "",
+                "phone_2": "11 2066-5955",
                 "place": "Universidad Estatal Paulista UNESP",
                 "type": "Instituto",
                 "website": "https://www.institutoconfucio.com.br/",
@@ -294,8 +302,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-47.870773013840896",
-                    "-15.770119884576262"
+                    -47.870773013840896,
+                    -15.770119884576262
                 ]
             },
             "properties": {
@@ -308,6 +316,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Brasilia",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?Wx}u?G?9?L'M?/?",
                 "country_name": "Brasil",
                 "email_1": "instconfuciounb@unb.br",
                 "email_2": "",
@@ -330,8 +339,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-43.26972116170254",
-                    "-22.99875174449436"
+                    -43.26972116170254,
+                    -22.99875174449436
                 ]
             },
             "properties": {
@@ -344,6 +353,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Doctor en Historia en la Universidad Normal de Beijing y profesor en la Escuela de Historia de la Universidad de Hebei.",
                 "city_name": "Río de Janeiro",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?F\u00189??E?\u001dm?1??6?",
                 "country_name": "Brasil",
                 "email_1": "confucius@puc-rio.br",
                 "email_2": "",
@@ -366,8 +376,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-51.1196133191437",
-                    "-30.07139430913633"
+                    -51.1196133191437,
+                    -30.07139430913633
                 ]
             },
             "properties": {
@@ -376,10 +386,11 @@
                 "address": "Av. Bento Gonçalves, 9500 - Campus do Vale da UFRGS, Prédio do Módulo de Serviços - Agronomia, Porto Alegre - RS, 91540-000",
                 "agreement_1": "",
                 "agreement_2": "",
-                "chinese_director": "Tiejun Gu",
+                "chinese_director": "Bai Lanling",
                 "chinese_director_email": "",
-                "chinese_director_profile": "",
+                "chinese_director_profile": "Se graduó con un doctorado en el Departamento de Chino de la Universidad de Pekín y de 2002 a 2007 fue directora del Centro de Enseñanza de Chino para Hablantes de Lenguas Extranjeras de la Universidad de Comunicación de China (CUC)",
                 "city_name": "Puerto alegre",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??>}O?I?nܾ?F\u0012>?",
                 "country_name": "Brasil",
                 "email_1": "confucio@ufrgs.br",
                 "email_2": "",
@@ -402,8 +413,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-46.6627294011376",
-                    "-23.54459227961684"
+                    -46.6627294011376,
+                    -23.54459227961684
                 ]
             },
             "properties": {
@@ -416,6 +427,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "São Paulo",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??'Q?TG???Nfj?7?",
                 "country_name": "Brasil",
                 "email_1": "institutoconfucio@faap.br",
                 "email_2": "",
@@ -438,8 +450,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-43.964818159940215",
-                    "-19.87228054782672"
+                    -43.964818159940215,
+                    -19.87228054782672
                 ]
             },
             "properties": {
@@ -452,6 +464,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Profesor de la Escuela de Idiomas HUST.",
                 "city_name": "Belo Horizonte",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??U)?E?L?)?M?3?",
                 "country_name": "Brasil",
                 "email_1": "icufmg@dri.ufmg.br",
                 "email_2": "",
@@ -474,8 +487,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-34.90224707009495",
-                    "-8.059126579339116"
+                    -34.90224707009495,
+                    -8.059126579339116
                 ]
             },
             "properties": {
@@ -488,6 +501,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Recife",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u001d|??|sA??+??E\u001e ?",
                 "country_name": "Brasil",
                 "email_1": "institutoconfucio@upe.br",
                 "email_2": "",
@@ -510,8 +524,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-47.07118304636767",
-                    "-22.816058730134284"
+                    -47.07118304636767,
+                    -22.816058730134284
                 ]
             },
             "properties": {
@@ -522,8 +536,9 @@
                 "agreement_2": "",
                 "chinese_director": "Gao Qinxiang",
                 "chinese_director_email": "",
-                "chinese_director_profile": "",
+                "chinese_director_profile": "Profesor de Ingeniería Eléctrica en la Universidad Jiaotong de Beijing (BJTU), también ocupó cargos administrativos en la misma institución (Presidente del Comité de Asuntos Académicos de la Escuela de Ingeniería Eléctrica, Director de Medios y Relaciones Públicas y Líder de Asuntos Administrativos de la BJTU)",
                 "city_name": "São Paulo",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?\u0016??\u001c?G?Ê?9??6?",
                 "country_name": "Brasil",
                 "email_1": "confucio@unicamp.br",
                 "email_2": "",
@@ -531,7 +546,7 @@
                 "institute_id": "15",
                 "local_director": "Bruno M. de Conti",
                 "local_director_email": "",
-                "local_director_profile": "",
+                "local_director_profile": "Profesor titular del Instituto de Economía de la Universidad Estadual de Campinas (Unicamp) e investigador del Centro de Estudios de Política Económica y Coyuntura (CECON) y del Centro de Estudios Brasil-China (CEBC) de la misma universidad.",
                 "logo": "https://fundacionandresbello.org/confucious_institute_logo/",
                 "phone": "55 19 3521 4716",
                 "phone_2": "19 3521 0051",
@@ -546,20 +561,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-48.45714186203113",
-                    "-1.4768900187687992"
+                    -48.48843175993172,
+                    -1.437049930120607
                 ]
             },
             "properties": {
                 "id": "16",
                 "cooperation": "Universidad Normal de Shandong",
-                "address": "R. Igarapé Tucunduba, 306 - Guamá, Belém - PA, 66075-155, Brasil",
+                "address": "Tv. Dom Pedro I, 519 - Umarizal, Belém - PA, 66050-100, Brasil",
                 "agreement_1": "",
                 "agreement_2": "",
                 "chinese_director": "",
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Belem",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0003???>H??dI\u0011(???",
                 "country_name": "Brasil",
                 "email_1": "institutoconfucio.uepa@hotmail.com",
                 "email_2": "",
@@ -582,20 +598,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-38.56957166202383",
-                    "-3.739295241440392"
+                    -38.56957166202383,
+                    -3.739295241440392
                 ]
             },
             "properties": {
                 "id": "17",
                 "cooperation": "Universidad de Nankai",
                 "address": "(Entrada por Seara da Ciência) Rua Dr. Abdenago Rocha Lima, s / n - Campus do Pici, Fortaleza - CE, 60440-554",
-                "agreement_1": "UFC  ",
-                "agreement_2": "Sede del Instituto Confucio (Hanban), en sociedad con la Universidad de Nankai, en Tianjin-China.",
+                "agreement_1": "UFC y la Sede del Instituto Confucio (Hanban), en sociedad con la Universidad de Nankai, en Tianjin-China.",
+                "agreement_2": "",
                 "chinese_director": "Su Jianhua",
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Fortaleza",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000t?f??HC?i???\u0013?\r?",
                 "country_name": "Brasil",
                 "email_1": "institutoconfucio@ufc.br",
                 "email_2": "",
@@ -618,8 +635,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.52205569535515",
-                    "-33.036723665066475"
+                    -71.52205569535515,
+                    -33.036723665066475
                 ]
             },
             "properties": {
@@ -632,6 +649,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Viña del Mar",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000k?J\\i?Q??9n\\??@?",
                 "country_name": "Chile",
                 "email_1": "confucio@santotomas.cl",
                 "email_2": "",
@@ -654,8 +672,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-70.59414210367504",
-                    "-33.446246372367455"
+                    -70.59414210367504,
+                    -33.446246372367455
                 ]
             },
             "properties": {
@@ -668,6 +686,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Santiago de Chile",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?\u001d?l\u0006?Q?p??\u001e?@?",
                 "country_name": "Chile",
                 "email_1": "institutoconfucio@uc.cl",
                 "email_2": "",
@@ -675,7 +694,7 @@
                 "institute_id": "19",
                 "local_director": "José Luís Parra",
                 "local_director_email": "",
-                "local_director_profile": "Maestro en Negocios Internacionales del Instito Tecnológico de Monterrey. Actualmente es profesor del Centro de Estudios Internacionales de la Pontificia Universidad Católica de Chile y Director Ejecutivo del Observatorio Estratégico de la Alizanza del Pacífico.",
+                "local_director_profile": "Maestro en Negocios Internacionales del Instituto Tecnológico de Monterrey. Actualmente es profesor del Centro de Estudios Internacionales de la Pontificia Universidad Católica de Chile y Director Ejecutivo del Observatorio Estratégico de la Alizanza del Pacífico.",
                 "logo": "https://fundacionandresbello.org/chile_ic_pu-catolica/",
                 "phone": "56 2 2354 5235",
                 "phone_2": "",
@@ -690,8 +709,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-72.1075153176439",
-                    "-36.60666207888358"
+                    -72.1075153176439,
+                    -36.60666207888358
                 ]
             },
             "properties": {
@@ -704,6 +723,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Chillán",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000`F??\u0006R??C^\u001a?MB?",
                 "country_name": "Chile",
                 "email_1": "liceomartabrunet@gmail.com",
                 "email_2": "",
@@ -726,8 +746,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.51944170553786",
-                    "-32.99732411824158"
+                    -71.51944170553786,
+                    -32.99732411824158
                 ]
             },
             "properties": {
@@ -740,6 +760,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Viña del Mar",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?]l?>?Q?\b?\u0013Q?@?",
                 "country_name": "Chile",
                 "email_1": "",
                 "email_2": "",
@@ -762,8 +783,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-70.6502313842708",
-                    "-33.4446913337772"
+                    -70.6502313842708,
+                    -33.4446913337772
                 ]
             },
             "properties": {
@@ -776,6 +797,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Santiago de Chile",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??\u0018d??Q???G??@?",
                 "country_name": "Chile",
                 "email_1": "rectoria@institutonacional.cl",
                 "email_2": "",
@@ -798,8 +820,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-70.6574236322093",
-                    "-33.439389323314145"
+                    -70.6574236322093,
+                    -33.439389323314145
                 ]
             },
             "properties": {
@@ -812,6 +834,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Santiago de Chile",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u00007??:\u0013?Q?D???=?@?",
                 "country_name": "Chile",
                 "email_1": "liceo1@munistgo.cl",
                 "email_2": "",
@@ -834,8 +857,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-72.21848924587798",
-                    "-36.50411238055489"
+                    -72.21848924587798,
+                    -36.50411238055489
                 ]
             },
             "properties": {
@@ -848,6 +871,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "San Nicolás",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?dQ??\rR???%??@B?",
                 "country_name": "Chile",
                 "email_1": "",
                 "email_2": "",
@@ -870,8 +894,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-73.21201325922299",
-                    "-39.85243004019711"
+                    -73.21201325922299,
+                    -39.85243004019711
                 ]
             },
             "properties": {
@@ -884,6 +908,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Valdivia",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??\u000f??MR?%ctm\u001c?C?",
                 "country_name": "Chile",
                 "email_1": "icap.educa@gmail.com",
                 "email_2": "",
@@ -906,8 +931,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.0669956313391",
-                    "4.607788362373139"
+                    -74.0669956313391,
+                    4.607788362373139
                 ]
             },
             "properties": {
@@ -920,21 +945,22 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Subdirectora de la División de Trabajo del Instituto Confucio de la Universidad de Estudios Extranjeros de Tianjin.",
                 "city_name": "Bogotá",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?d\u000b?I?R?? ?\u0012`n\u0012@",
                 "country_name": "Colombia",
                 "email_1": "atencion.institutoconfucio@utadeo.edu.co",
                 "email_2": "",
                 "extension": "Opción 9 ext. 3670 – 3673",
                 "institute_id": "26",
-                "local_director": "Lina Álvarez",
+                "local_director": "Diego Julian Bautista Monroy",
                 "local_director_email": "",
-                "local_director_profile": "Economista con Maestría en economía de la Universidad de Los Andes.",
+                "local_director_profile": "Es internacionalista; también se desempeña como jefe de Cooperación Nacional e Internacional de la Universidad Jorge Tadeo Lozano. Fue uno de los promotores de la creación del Instituto Confucio.",
                 "logo": "https://fundacionandresbello.org/co_ic_utadeo/",
                 "phone": "57 1 2427030",
                 "phone_2": "",
                 "place": "Universidad Jorge Tadeo Lozano",
                 "type": "Instituto",
                 "website": "https://www.utadeo.edu.co/es/micrositio/instituto-confucio",
-                "year": "2004"
+                "year": "2012"
             }
         },
         {
@@ -942,8 +968,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-75.57935405667743",
-                    "6.196427510880785"
+                    -75.57935405667743,
+                    6.196427510880785
                 ]
             },
             "properties": {
@@ -956,6 +982,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Medellín",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0002?\t#\u0014?R?\u0014\u0012\u001dK$?\u0018@",
                 "country_name": "Colombia",
                 "email_1": "contacto@institutoconfuciomedellin.org",
                 "email_2": "",
@@ -978,8 +1005,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.85042623275902",
-                    "11.019563698354268"
+                    -74.85042623275902,
+                    11.019563698354268
                 ]
             },
             "properties": {
@@ -992,6 +1019,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Barranquilla",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0012W&bm?R??=?@\u0004\n&@",
                 "country_name": "Colombia",
                 "email_1": "iidiomas@uninorte.edu.co",
                 "email_2": "",
@@ -1014,8 +1042,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.06672942226825",
-                    "4.600936752491852"
+                    -74.06672942226825,
+                    4.600936752491852
                 ]
             },
             "properties": {
@@ -1028,6 +1056,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Bogotá",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??{KE?R?????[g\u0012@",
                 "country_name": "Colombia",
                 "email_1": "confucio@uniandes.edu.co",
                 "email_2": "",
@@ -1050,8 +1079,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.07800413456374",
-                    "4.718095248511658"
+                    -74.07800413456374,
+                    4.718095248511658
                 ]
             },
             "properties": {
@@ -1064,6 +1093,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Bogotá",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000ܹ\r\u0005??R?\u000f\u0015_\\T?\u0012@",
                 "country_name": "Colombia",
                 "email_1": "admisiones@mbs.edu.co",
                 "email_2": "",
@@ -1086,8 +1116,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.052946757193",
-                    "4.773562760908023"
+                    -74.052946757193,
+                    4.773562760908023
                 ]
             },
             "properties": {
@@ -1100,6 +1130,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Bogotá",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000???zc?R??\u0003\u001e? \u0018\u0013@",
                 "country_name": "Colombia",
                 "email_1": "contactenos@gimnasiovermont.edu.co",
                 "email_2": "",
@@ -1122,8 +1153,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.14407181784279",
-                    "4.823570240769236"
+                    -74.14407181784279,
+                    4.823570240769236
                 ]
             },
             "properties": {
@@ -1136,6 +1167,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Tenjo",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000>z\u0000y8?R?8@H?UK\u0013@",
                 "country_name": "Colombia",
                 "email_1": "contacto@gcrb.edu.co",
                 "email_2": "",
@@ -1158,8 +1190,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-84.05279386272426",
-                    "9.935018221042393"
+                    -84.05279386272426,
+                    9.935018221042393
                 ]
             },
             "properties": {
@@ -1172,14 +1204,15 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Docente del Departamento de Lenguas Modernas de la Universidad de Costa Rica.",
                 "city_name": "San José",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\"u??`\u0003U?\u0015\u0015Q???#@",
                 "country_name": "Costa Rica",
                 "email_1": "instituto.confucio@ucr.ac.cr",
                 "email_2": "",
                 "extension": "",
                 "institute_id": "33",
-                "local_director": "",
+                "local_director": "Dr. Kuok-Wa (Jimmy) Chao Chao",
                 "local_director_email": "",
-                "local_director_profile": "",
+                "local_director_profile": "Docente del departamento de lenguas modernas de la Universidad de Costa Rica",
                 "logo": "https://fundacionandresbello.org/crica_ic_u_costa_rica/",
                 "phone": "506 2511 6870",
                 "phone_2": "",
@@ -1194,8 +1227,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-82.3643781445135",
-                    "23.135142139601633"
+                    -82.3643781445135,
+                    23.135142139601633
                 ]
             },
             "properties": {
@@ -1204,16 +1237,17 @@
                 "address": "San Nicolás / Zanja y Dragones 10400 Centro Habana",
                 "agreement_1": "",
                 "agreement_2": "",
-                "chinese_director": "",
+                "chinese_director": "Ding Ting",
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "La Habana",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0002???Q?T???ݬ?\"7@",
                 "country_name": "Cuba",
                 "email_1": "confucio@rect.uh.cu",
                 "email_2": "",
                 "extension": "",
                 "institute_id": "34",
-                "local_director": "Yorbelis Rosell",
+                "local_director": "Jeisy Díaz Fernández",
                 "local_director_email": "",
                 "local_director_profile": "",
                 "logo": "https://fundacionandresbello.org/cuba_ic_habana/",
@@ -1230,20 +1264,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-78.4361949197026",
-                    "-0.19692213668468597"
+                    -78.43609567446394,
+                    -0.1970177187550279
                 ]
             },
             "properties": {
                 "id": "35",
                 "cooperation": "Universidad China del Petróleo",
-                "address": "RH37+4G5, Quito 170902, Ecuador",
+                "address": "Av. Diego de Robles & Vía Interoceánica",
                 "agreement_1": "",
                 "agreement_2": "",
                 "chinese_director": "Zhang Hao",
                 "chinese_director_email": "",
                 "chinese_director_profile": "Lengua y literatura inglesa.",
                 "city_name": "Quito",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?????S?\u0007?di?7ɿ",
                 "country_name": "Ecuador",
                 "email_1": "mcisnerosb@usfq.edu.ec",
                 "email_2": "",
@@ -1266,8 +1301,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-78.47589625506446",
-                    "-0.17280777580198656"
+                    -78.47589625506446,
+                    -0.17280777580198656
                 ]
             },
             "properties": {
@@ -1280,6 +1315,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Profesor especializado en la enseñanza del idioma chino Mandarín para extranjeros.",
                 "city_name": "Quito",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??\u0015u?S?72Ȱ?\u001eƿ",
                 "country_name": "Ecuador",
                 "email_1": "infoquito@siyuan.com.ec",
                 "email_2": "",
@@ -1302,8 +1338,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-78.4413823817715",
-                    "-0.20331631912972745"
+                    -78.4413823817715,
+                    -0.20331631912972745
                 ]
             },
             "properties": {
@@ -1316,6 +1352,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Profesor especializado en la enseñanza del idioma chino Mandarín para extranjeros.",
                 "city_name": "Quito",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000O????S?+??D\u0006ʿ",
                 "country_name": "Ecuador",
                 "email_1": "infoquito@siyuan.com.ec",
                 "email_2": "",
@@ -1338,8 +1375,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-89.2028821029071",
-                    "13.720256817238253"
+                    -89.2028821029071,
+                    13.720256817238253
                 ]
             },
             "properties": {
@@ -1352,6 +1389,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Maestría en Educación de la Universidad del Suroeste de China y la Licenciatura en Artes de la Universidad de Estudios Internacionales de Sichuan.",
                 "city_name": "San Salvador",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?;7\u0005?LV?Ʉe??p+@",
                 "country_name": "El Salvador",
                 "email_1": "instituto.confucio@ues.edu.sv",
                 "email_2": "",
@@ -1374,8 +1412,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-61.74641495103968",
-                    "12.048474739699056"
+                    -61.74641495103968,
+                    12.048474739699056
                 ]
             },
             "properties": {
@@ -1388,6 +1426,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Saint George",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??m???N?\u000ea[??\u0018(@",
                 "country_name": "Granada",
                 "email_1": "qinyi@nbut.edu.cn ",
                 "email_2": "norellap@tamcc.edu.gd",
@@ -1410,8 +1449,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-58.117927108979416",
-                    "6.812370256379796"
+                    -58.117927108979416,
+                    6.812370256379796
                 ]
             },
             "properties": {
@@ -1424,6 +1463,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Georgetown",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000p0J<\u0018\u000fM?ӓ\r???\u001b@",
                 "country_name": "Guyana",
                 "email_1": "ciug@uog.edu.gy",
                 "email_2": "",
@@ -1446,8 +1486,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-72.3217763335061",
-                    "18.527458953658474"
+                    -72.3217763335061,
+                    18.527458953658474
                 ]
             },
             "properties": {
@@ -1460,6 +1500,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Puerto Príncipe",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000EB???\u0014R?\u000e?ˌ\u0007?2@",
                 "country_name": "Haití",
                 "email_1": "confuciusclassroom@uniq.edu.ht",
                 "email_2": "",
@@ -1482,8 +1523,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-76.7468806241616",
-                    "18.005915710641386"
+                    -76.7468806241616,
+                    18.005915710641386
                 ]
             },
             "properties": {
@@ -1496,6 +1537,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Kingston",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??c??/S?ü'??\u00012@",
                 "country_name": "Jamaica",
                 "email_1": "confuciusinstituteuwi@gmail.com",
                 "email_2": "",
@@ -1518,8 +1560,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-99.16071125810724",
-                    "19.373827191881716"
+                    -99.16071125810724,
+                    19.373827191881716
                 ]
             },
             "properties": {
@@ -1532,6 +1574,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "CDMX",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?j?\u0017I?X??|?#?_3@",
                 "country_name": "México",
                 "email_1": "huaxiamex@hotmail.com",
                 "email_2": "",
@@ -1543,7 +1586,7 @@
                 "logo": "https://fundacionandresbello.org/mx_ic_ciudad-mexico/",
                 "phone": "52 55 56043611",
                 "phone_2": "",
-                "place": "Confucio de la Ciudad de México",
+                "place": "Instituto Confucio de la Ciudad de México",
                 "type": "Instituto",
                 "website": "https://www.facebook.com/ciudaddemexico.institutoconfucio.3/",
                 "year": "2006"
@@ -1554,8 +1597,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-100.27726186209702",
-                    "25.612089814954007"
+                    -100.27726186209702,
+                    25.612089814954007
                 ]
             },
             "properties": {
@@ -1568,6 +1611,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Monterrey",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?????\u0011Y?1q\t뱜9@",
                 "country_name": "México",
                 "email_1": "ccl@uanl.mx",
                 "email_2": "",
@@ -1590,8 +1634,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-89.59939137709746",
-                    "20.978082752807843"
+                    -89.59939137709746,
+                    20.978082752807843
                 ]
             },
             "properties": {
@@ -1600,10 +1644,11 @@
                 "address": "C. 20 14, Chuminópolis, 97155 Mérida, Yuc., México",
                 "agreement_1": "",
                 "agreement_2": "",
-                "chinese_director": "Yu Zhantao",
+                "chinese_director": "Dr. Changqing Xu",
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Yucatán",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000Ո?m\\fV?b\u0017??c?4@",
                 "country_name": "México",
                 "email_1": "instituto.confucio@correo.uady.mx",
                 "email_2": "",
@@ -1626,8 +1671,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-99.17237880453752",
-                    "19.408210207904165"
+                    -99.17237880453752,
+                    19.408210207904165
                 ]
             },
             "properties": {
@@ -1640,6 +1685,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "CDMX",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?\u0000\u001cA\b?X?}??v?h3@",
                 "country_name": "México",
                 "email_1": "inst.conf.unam@gmail.com",
                 "email_2": "",
@@ -1662,8 +1708,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-106.08480214743753",
-                    "28.654925131142267"
+                    -106.08480214743753,
+                    28.654925131142267
                 ]
             },
             "properties": {
@@ -1676,6 +1722,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Chihuahua",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?w?em?Z???c,??<@",
                 "country_name": "México",
                 "email_1": "instituto_confucio@uach.mx",
                 "email_2": "",
@@ -1698,8 +1745,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-79.53085893314667",
-                    "8.983947818493926"
+                    -79.53085893314667,
+                    8.983947818493926
                 ]
             },
             "properties": {
@@ -1712,6 +1759,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Panamá",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?)????S???*\u0002??!@",
                 "country_name": "Panamá",
                 "email_1": "sofia@bisu.edu.cn",
                 "email_2": "",
@@ -1734,8 +1782,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.5383107458143",
-                    "-16.40063571693803"
+                    -71.5383107458143,
+                    -16.40063571693803
                 ]
             },
             "properties": {
@@ -1744,16 +1792,17 @@
                 "address": "La Merced 207 Cercado | Arequipa - Perú",
                 "agreement_1": "",
                 "agreement_2": "",
-                "chinese_director": "Peng Qigui",
+                "chinese_director": "Dra. Ge Jingping",
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Arequipa",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?\u0016?s?Q????\u000f?f0?",
                 "country_name": "Perú",
                 "email_1": "confucio@ucsm.edu.pe",
                 "email_2": "",
                 "extension": "",
                 "institute_id": "49",
-                "local_director": "Mgter. Angélica Corzo Salas de Valdivia",
+                "local_director": "Dr. Manuel Alberto Briceño Ortega",
                 "local_director_email": "",
                 "local_director_profile": "",
                 "logo": "https://fundacionandresbello.org/pe_ic_ucsm/",
@@ -1770,8 +1819,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-80.63397646636358",
-                    "-5.17702515892957"
+                    -80.63397646636358,
+                    -5.17702515892957
                 ]
             },
             "properties": {
@@ -1784,6 +1833,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Profesora de la Capital Normal University de Beijing. Doctora en Filología Hispánica por la Universidad de Estudios Extranjeros de Beijing.",
                 "city_name": "Piura",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?]\u0007\u0012?(T?ԯP\u0015F?\u0014?",
                 "country_name": "Perú",
                 "email_1": "confucio@udep.pe",
                 "email_2": "",
@@ -1791,7 +1841,7 @@
                 "institute_id": "50",
                 "local_director": "William Zapata",
                 "local_director_email": "",
-                "local_director_profile": "",
+                "local_director_profile": "Es magíster en Educación, en Teorías y Práctica Educativa, e ingeniero industrial de la Universidad de Piura.",
                 "logo": "https://fundacionandresbello.org/pe_ic_udep/",
                 "phone": "073 284500 ",
                 "phone_2": "",
@@ -1806,8 +1856,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-77.08061721776564",
-                    "-12.078124234262507"
+                    -77.08061721776564,
+                    -12.078124234262507
                 ]
             },
             "properties": {
@@ -1820,6 +1870,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Lima",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0011s\u001e?(ES?r]N??'(?",
                 "country_name": "Perú",
                 "email_1": "estudiaenconfucio@pucp.edu.pe",
                 "email_2": "",
@@ -1842,8 +1893,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-76.97965103144237",
-                    "-12.131766408500475"
+                    -76.97965103144237,
+                    -12.131766408500475
                 ]
             },
             "properties": {
@@ -1852,16 +1903,17 @@
                 "address": "Av. Benavides 5440 - Aulario Inca Roca - Pabellón B - Oficinas 305 y 304 - Santiago de Surco- Lima - Perú",
                 "agreement_1": "",
                 "agreement_2": "",
-                "chinese_director": "",
+                "chinese_director": "Zhang Huizhen",
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Lima",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000ib=??>S?\u001cq??vC(?",
                 "country_name": "Perú",
                 "email_1": "iconfucio@urp.edu.pe",
                 "email_2": "iiconfuciourp@gmail.com",
                 "extension": "Anexo 5114",
                 "institute_id": "52",
-                "local_director": "Mag. Cecilia Tello Álvarez. ",
+                "local_director": "Mag. Cecilia Tello Álvarez. - Dra. Rosa Filipchuk de Romero",
                 "local_director_email": "",
                 "local_director_profile": "",
                 "logo": "https://fundacionandresbello.org/pe_ic_ricardo_palma/",
@@ -1878,8 +1930,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-69.96276343113813",
-                    "18.488328315883606"
+                    -69.96276343113813,
+                    18.488328315883606
                 ]
             },
             "properties": {
@@ -1888,18 +1940,19 @@
                 "address": "Av. Los Próceres, Jardines del Norte. P.O. Box 342-9 y 249-2 Santo Domingo",
                 "agreement_1": "",
                 "agreement_2": "",
-                "chinese_director": "Lyu Xiaoduan",
+                "chinese_director": "Wang Yue",
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Santo Domingo",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000y???}Q?Ln?\u0015\u0003}2@",
                 "country_name": "República Dominicana ",
                 "email_1": "confucio@intec.edu.do",
                 "email_2": "",
                 "extension": "ext. 670",
                 "institute_id": "53",
-                "local_director": "Gracham Rodríguez",
+                "local_director": "Vanessa Robles",
                 "local_director_email": "",
-                "local_director_profile": "Licenciada en Mercadeo del Instituto Tecnológico de Santo Domingo (INTEC); Máster en Negocios Internacionales del Centro de Estudios Financieros (CEF) en Madrid, España; Magister en Gerencia de Calidad y Productividad. Actualmente es la Coordinadora Administrativa del Centro Internacional de Idiomas del INTEC.",
+                "local_director_profile": "",
                 "logo": "https://fundacionandresbello.org/rep_dom_ic_intec/",
                 "phone": "809 567 9271 ",
                 "phone_2": "",
@@ -1914,8 +1967,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-55.2135196697558",
-                    "5.814791226417576"
+                    -55.2135196697558,
+                    5.814791226417576
                 ]
             },
             "properties": {
@@ -1928,6 +1981,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Paramaribo",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?SϜT?K??\u001f??XB\u0017@",
                 "country_name": "Surinam",
                 "email_1": "preetema2@gmail.com",
                 "email_2": "ci@uvs.edu",
@@ -1950,8 +2004,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-61.39878184343994",
-                    "10.643077298615935"
+                    -61.39878184343994,
+                    10.643077298615935
                 ]
             },
             "properties": {
@@ -1964,6 +2018,7 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Saint Augustine",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0015?H\u000b?N?\u0000?|mAI%@",
                 "country_name": "Trinidad y Tobago",
                 "email_1": "Confucius@sta.uwi.edu",
                 "email_2": "",
@@ -1986,8 +2041,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-56.1588770306061",
-                    "-34.891588576588866"
+                    -56.1588770306061,
+                    -34.891588576588866
                 ]
             },
             "properties": {
@@ -2000,9 +2055,10 @@
                 "chinese_director_email": "",
                 "chinese_director_profile": "Docente del Instituto Huang Tingting.",
                 "city_name": "Montevideo",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000?D!\u0015V\u0014L???\u0010?\u001frA?",
                 "country_name": "Uruguay",
-                "email_1": "",
-                "email_2": "",
+                "email_1": "No tienen correo electrónico pero si se pueden contactar por medio del siguiente enlace: https://udelar.edu.uy/confucio/contacto/",
+                "email_2": "They do not have an e-mail address but can be contacted through the following link: https://udelar.edu.uy/confucio/contacto/.\n",
                 "extension": "",
                 "institute_id": "56",
                 "local_director": "Cheung Koon Yim",
@@ -2022,8 +2078,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-66.88581374634421",
-                    "10.487638762590624"
+                    -66.88581374634421,
+                    10.487638762590624
                 ]
             },
             "properties": {
@@ -2032,10 +2088,11 @@
                 "address": "Piso 9. Edificio UBV, Av. Leonardo Da Vinci, Los Chaguaramos",
                 "agreement_1": "",
                 "agreement_2": "",
-                "chinese_director": "",
+                "chinese_director": "Huang Ling",
                 "chinese_director_email": "",
                 "chinese_director_profile": "",
                 "city_name": "Caracas",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000R?#,??P?b-?ɫ?$@",
                 "country_name": "Venezuela ",
                 "email_1": "",
                 "email_2": "",
@@ -2051,6 +2108,43 @@
                 "type": "Instituto",
                 "website": "http://institutoconfucio.ubv.edu.ve/",
                 "year": "2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.38296369263406,
+                    20.678530815875316
+                ]
+            },
+            "properties": {
+                "id": "58",
+                "cooperation": "Universidad de la Ciudad de Beijing",
+                "address": "Calle Tomás V. Gómez 125 Arcos Vallarta, 44130 Guadalajara, Jal., Mexico",
+                "agreement_1": "",
+                "agreement_2": "",
+                "chinese_director": "",
+                "chinese_director_email": "",
+                "chinese_director_profile": "",
+                "city_name": "Guadalajara",
+                "coords": "\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000??%z??Y???\u000f2??4@",
+                "country_name": "México",
+                "email_1": "",
+                "email_2": "",
+                "extension": "",
+                "institute_id": "58",
+                "local_director": "",
+                "local_director_email": "",
+                "local_director_profile": "",
+                "logo": "",
+                "phone": "52 33 3134 2222",
+                "phone_2": "",
+                "place": "Universidad de Guadalajara",
+                "type": "Instituto",
+                "website": "",
+                "year": "2023"
             }
         }
     ]

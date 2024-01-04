@@ -1,35 +1,34 @@
-import { useEffect, useState } from "react";
+import { /*useContext,*/ useEffect, useState } from "react";
 import { getInstitutes } from "../api";
+// import { institutesContext } from "../context";
 
 // use this function to get geoJSON object when DB info change in order to update the institutes.json file
 export const useGeoInstitutes = () => {
+  // const institutesData = getInstitutes()
 
   const [institutes, setInstitutes] = useState([]);
+
+  // const { institutes } = useContext(institutesContext)
+
 
   useEffect(() => {
     const fetchInstitutes = async () => {
       const institutesRes = await getInstitutes();
-      setInstitutes(institutesRes)
-    }
-    fetchInstitutes()
-    
+      setInstitutes(institutesRes);
+    };
+    fetchInstitutes();
   }, []);
-      
 
-  
-      
-
-  const resGeoInstitutes = 
-  {
+  const resGeoInstitutes = {
     type: "FeatureCollection",
     features: institutes.map((institute) => {
       return {
         type: "Feature",
         geometry: {
           type: "Point",
-          coordinates: [ institute.long, institute.lat],
+          coordinates: parseFloat([institute.long, institute.lat]),
         },
-        properties: { 
+        properties: {
           id: institute.institute_id,
           cooperation: institute.Cooperation_spa,
           address: institute.address,
@@ -39,6 +38,7 @@ export const useGeoInstitutes = () => {
           chinese_director_email: institute.chinese_director_email,
           chinese_director_profile: institute.chinese_director_profile_spa,
           city_name: institute.city_name_spa,
+          coords: institute.coordinates,
           country_name: institute.country_name_spa,
           email_1: institute.email_1,
           email_2: institute.email_2,
@@ -58,8 +58,6 @@ export const useGeoInstitutes = () => {
       };
     }),
   };
-  
-  return resGeoInstitutes
-  
-}
 
+  return resGeoInstitutes;
+};

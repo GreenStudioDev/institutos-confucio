@@ -8,12 +8,12 @@ export const institutesReducer = (state, action) => {
         isLoading: false,
         institutes: action.payload,
       };
-    case "setInstitutes":
-      return {
-        ...state,
-        isLoading: false,
-        institutes: action.payload,
-      };
+    // case "setInstitutes":
+    //   return {
+    //     ...state,
+    //     isLoading: false,
+    //     institutes: action.payload,
+    //   };
     default:
       return state;
   }
